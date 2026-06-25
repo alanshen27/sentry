@@ -1,0 +1,1177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "road_0",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.572858,
+            2.443628
+          ],
+          [
+            43.553185,
+            2.444911
+          ],
+          [
+            43.545508,
+            2.447228
+          ],
+          [
+            43.532604,
+            2.435699
+          ],
+          [
+            43.550097,
+            2.442358
+          ],
+          [
+            43.550942,
+            2.438584
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_0",
+        "highway": "primary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.572506,
+            2.414513
+          ],
+          [
+            43.583324,
+            2.425426
+          ],
+          [
+            43.564948,
+            2.414783
+          ],
+          [
+            43.575944,
+            2.396439
+          ],
+          [
+            43.581843,
+            2.413464
+          ],
+          [
+            43.562781,
+            2.422334
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_1",
+        "highway": "track",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_2",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.714484,
+            0.430192
+          ],
+          [
+            40.712197,
+            0.413682
+          ],
+          [
+            40.699698,
+            0.421939
+          ],
+          [
+            40.707699,
+            0.434563
+          ],
+          [
+            40.712769,
+            0.453887
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_2",
+        "highway": "unclassified",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.341482,
+            -0.038995
+          ],
+          [
+            41.35736,
+            -0.038012
+          ],
+          [
+            41.34049,
+            -0.021007
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_3",
+        "highway": "unclassified",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_4",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.508761,
+            2.545633
+          ],
+          [
+            43.511851,
+            2.562015
+          ],
+          [
+            43.505057,
+            2.552634
+          ],
+          [
+            43.520165,
+            2.544774
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_4",
+        "highway": "unclassified",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.184404,
+            -0.021909
+          ],
+          [
+            41.202876,
+            -0.035769
+          ],
+          [
+            41.199506,
+            -0.020224
+          ],
+          [
+            41.202622,
+            -0.03005
+          ],
+          [
+            41.197991,
+            -0.030088
+          ],
+          [
+            41.209442,
+            -0.049421
+          ],
+          [
+            41.206774,
+            -0.067222
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_5",
+        "highway": "secondary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.53499,
+            2.550693
+          ],
+          [
+            43.515764,
+            2.541629
+          ],
+          [
+            43.515869,
+            2.554275
+          ],
+          [
+            43.514955,
+            2.565984
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_6",
+        "highway": "primary",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.823665,
+            0.349581
+          ],
+          [
+            40.826317,
+            0.358753
+          ],
+          [
+            40.813533,
+            0.35106
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_7",
+        "highway": "unclassified",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_8",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.531906,
+            2.541387
+          ],
+          [
+            43.533718,
+            2.560634
+          ],
+          [
+            43.547878,
+            2.573846
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_8",
+        "highway": "track",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.167001,
+            0.067519
+          ],
+          [
+            41.182019,
+            0.050261
+          ],
+          [
+            41.199481,
+            0.039905
+          ],
+          [
+            41.20187,
+            0.030799
+          ],
+          [
+            41.185764,
+            0.046053
+          ],
+          [
+            41.191891,
+            0.064078
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_9",
+        "highway": "track",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_10",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.497757,
+            2.592709
+          ],
+          [
+            43.477802,
+            2.604344
+          ],
+          [
+            43.463265,
+            2.600567
+          ],
+          [
+            43.45318,
+            2.581714
+          ],
+          [
+            43.443482,
+            2.562573
+          ],
+          [
+            43.431793,
+            2.559917
+          ],
+          [
+            43.426124,
+            2.577681
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_10",
+        "highway": "primary",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_11",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.183434,
+            0.07435
+          ],
+          [
+            41.186761,
+            0.080531
+          ],
+          [
+            41.192376,
+            0.091408
+          ],
+          [
+            41.208402,
+            0.091742
+          ],
+          [
+            41.198165,
+            0.086281
+          ],
+          [
+            41.202536,
+            0.103599
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_11",
+        "highway": "residential",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_12",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.356984,
+            -0.03904
+          ],
+          [
+            41.347872,
+            -0.037813
+          ],
+          [
+            41.359288,
+            -0.018625
+          ],
+          [
+            41.362624,
+            -0.004169
+          ],
+          [
+            41.344253,
+            -0.012952
+          ],
+          [
+            41.336252,
+            -0.004533
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_12",
+        "highway": "secondary",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_13",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.423924,
+            2.403732
+          ],
+          [
+            43.418422,
+            2.403837
+          ],
+          [
+            43.431249,
+            2.395916
+          ],
+          [
+            43.422647,
+            2.38656
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_13",
+        "highway": "secondary",
+        "name": "Main Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_14",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.940721,
+            0.395137
+          ],
+          [
+            40.951594,
+            0.406005
+          ],
+          [
+            40.958803,
+            0.400172
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_14",
+        "highway": "unclassified",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_15",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.407837,
+            0.102081
+          ],
+          [
+            41.424921,
+            0.084948
+          ],
+          [
+            41.435501,
+            0.097526
+          ],
+          [
+            41.450491,
+            0.08683
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_15",
+        "highway": "secondary",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_16",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.795836,
+            0.434537
+          ],
+          [
+            40.791185,
+            0.42712
+          ],
+          [
+            40.774777,
+            0.429507
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_16",
+        "highway": "primary",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_17",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.236994,
+            0.092666
+          ],
+          [
+            41.240982,
+            0.111112
+          ],
+          [
+            41.246195,
+            0.112081
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_17",
+        "highway": "tertiary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_18",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.620966,
+            2.607582
+          ],
+          [
+            43.604626,
+            2.589373
+          ],
+          [
+            43.624369,
+            2.604603
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_18",
+        "highway": "tertiary",
+        "name": "Main Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_19",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.388804,
+            2.568242
+          ],
+          [
+            43.406403,
+            2.559218
+          ],
+          [
+            43.411554,
+            2.556651
+          ],
+          [
+            43.39156,
+            2.571064
+          ],
+          [
+            43.396253,
+            2.570233
+          ],
+          [
+            43.402369,
+            2.570799
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_19",
+        "highway": "secondary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_20",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.617639,
+            2.596749
+          ],
+          [
+            43.629392,
+            2.593897
+          ],
+          [
+            43.621252,
+            2.58023
+          ],
+          [
+            43.633997,
+            2.595027
+          ],
+          [
+            43.616426,
+            2.577215
+          ],
+          [
+            43.621738,
+            2.577816
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_20",
+        "highway": "primary",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_21",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.371947,
+            2.418197
+          ],
+          [
+            43.37709,
+            2.398628
+          ],
+          [
+            43.395602,
+            2.394173
+          ],
+          [
+            43.396046,
+            2.409591
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_21",
+        "highway": "track",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_22",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.77536,
+            0.386854
+          ],
+          [
+            40.781932,
+            0.387844
+          ],
+          [
+            40.787119,
+            0.399812
+          ],
+          [
+            40.804705,
+            0.40735
+          ],
+          [
+            40.809195,
+            0.404794
+          ],
+          [
+            40.794754,
+            0.408705
+          ],
+          [
+            40.782902,
+            0.421478
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_22",
+        "highway": "unclassified",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_23",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.952172,
+            0.270773
+          ],
+          [
+            40.961205,
+            0.25287
+          ],
+          [
+            40.967637,
+            0.25633
+          ],
+          [
+            40.971177,
+            0.237721
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_23",
+        "highway": "tertiary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_24",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.42118,
+            0.075405
+          ],
+          [
+            41.42014,
+            0.060726
+          ],
+          [
+            41.438042,
+            0.068967
+          ],
+          [
+            41.446215,
+            0.068131
+          ],
+          [
+            41.455848,
+            0.072804
+          ],
+          [
+            41.445541,
+            0.087886
+          ],
+          [
+            41.442532,
+            0.102869
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_24",
+        "highway": "track",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_25",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.39556,
+            -0.117275
+          ],
+          [
+            41.399721,
+            -0.124008
+          ],
+          [
+            41.408961,
+            -0.141536
+          ],
+          [
+            41.396425,
+            -0.158061
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_25",
+        "highway": "unclassified",
+        "name": "Main Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_26",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.542636,
+            2.434894
+          ],
+          [
+            43.555592,
+            2.429716
+          ],
+          [
+            43.539467,
+            2.419702
+          ],
+          [
+            43.54884,
+            2.404022
+          ],
+          [
+            43.553362,
+            2.385402
+          ],
+          [
+            43.561237,
+            2.370625
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_26",
+        "highway": "track",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_27",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.564203,
+            2.538979
+          ],
+          [
+            43.578544,
+            2.520524
+          ],
+          [
+            43.579681,
+            2.533598
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_27",
+        "highway": "unclassified",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_28",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.824219,
+            0.344436
+          ],
+          [
+            40.806454,
+            0.336747
+          ],
+          [
+            40.824091,
+            0.325068
+          ],
+          [
+            40.826707,
+            0.305746
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_28",
+        "highway": "residential",
+        "name": "Access Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_29",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.556827,
+            2.602653
+          ],
+          [
+            43.539757,
+            2.607634
+          ],
+          [
+            43.534458,
+            2.626044
+          ],
+          [
+            43.547908,
+            2.628013
+          ],
+          [
+            43.56621,
+            2.641138
+          ],
+          [
+            43.585719,
+            2.625452
+          ],
+          [
+            43.585941,
+            2.611325
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_29",
+        "highway": "track",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.644569,
+            2.539381
+          ],
+          [
+            43.627026,
+            2.552284
+          ],
+          [
+            43.643065,
+            2.542416
+          ],
+          [
+            43.634407,
+            2.534028
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_30",
+        "highway": "tertiary",
+        "name": "Shabelle Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_31",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.396403,
+            2.600638
+          ],
+          [
+            43.393583,
+            2.6164
+          ],
+          [
+            43.395121,
+            2.620406
+          ],
+          [
+            43.393127,
+            2.601363
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_31",
+        "highway": "track",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_32",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.660269,
+            0.381309
+          ],
+          [
+            40.666415,
+            0.375445
+          ],
+          [
+            40.663139,
+            0.358256
+          ],
+          [
+            40.656691,
+            0.374114
+          ],
+          [
+            40.673109,
+            0.379478
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_32",
+        "highway": "primary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_33",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            41.194524,
+            -0.088419
+          ],
+          [
+            41.187086,
+            -0.100514
+          ],
+          [
+            41.205101,
+            -0.113069
+          ],
+          [
+            41.194933,
+            -0.113836
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_33",
+        "highway": "unclassified",
+        "name": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_34",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.934863,
+            0.434413
+          ],
+          [
+            40.949498,
+            0.414704
+          ],
+          [
+            40.944949,
+            0.398552
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_34",
+        "highway": "secondary",
+        "name": "Juba Rd"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road_35",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.725697,
+            0.399612
+          ],
+          [
+            40.736214,
+            0.416096
+          ],
+          [
+            40.716588,
+            0.420276
+          ]
+        ]
+      },
+      "properties": {
+        "id": "road_35",
+        "highway": "track",
+        "name": "Access Rd"
+      }
+    }
+  ]
+}

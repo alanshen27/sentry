@@ -1,0 +1,435 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "fac_0",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.190530012995005,
+          0.060295385667122905
+        ]
+      },
+      "properties": {
+        "id": "fac_0",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_1",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.886393746682444,
+          1.8429474557749925
+        ]
+      },
+      "properties": {
+        "id": "fac_1",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 1"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_2",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.01587629667483,
+          1.79346952594351
+        ]
+      },
+      "properties": {
+        "id": "fac_2",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_3",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.41133109373506,
+          2.625534406891093
+        ]
+      },
+      "properties": {
+        "id": "fac_3",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 3"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_4",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.49596086358651,
+          2.4966330144973474
+        ]
+      },
+      "properties": {
+        "id": "fac_4",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_5",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.914509161193855,
+          1.9363117400556802
+        ]
+      },
+      "properties": {
+        "id": "fac_5",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 5"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_6",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.68514236238785,
+          0.4948803395917639
+        ]
+      },
+      "properties": {
+        "id": "fac_6",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 6"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_7",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.33659310053568,
+          2.610193472588435
+        ]
+      },
+      "properties": {
+        "id": "fac_7",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 7"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_8",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.8651208313927,
+          1.9281359827378763
+        ]
+      },
+      "properties": {
+        "id": "fac_8",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 8"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_9",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.91388514152262,
+          0.4224828306026757
+        ]
+      },
+      "properties": {
+        "id": "fac_9",
+        "type": "school",
+        "amenity": "school",
+        "name": "School 9"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_10",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.40250388356857,
+          0.015378547417931251
+        ]
+      },
+      "properties": {
+        "id": "fac_10",
+        "type": "hospital",
+        "amenity": "hospital",
+        "name": "Hospital 10"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_11",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.8026197505882,
+          0.3845369600038976
+        ]
+      },
+      "properties": {
+        "id": "fac_11",
+        "type": "hospital",
+        "amenity": "hospital",
+        "name": "Hospital 11"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_12",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.6718907748349,
+          0.29284285411704336
+        ]
+      },
+      "properties": {
+        "id": "fac_12",
+        "type": "hospital",
+        "amenity": "hospital",
+        "name": "Hospital 12"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_13",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.17120465104002,
+          -0.01425763253122568
+        ]
+      },
+      "properties": {
+        "id": "fac_13",
+        "type": "hospital",
+        "amenity": "hospital",
+        "name": "Hospital 13"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_14",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.68429613300599,
+          0.3679895524447784
+        ]
+      },
+      "properties": {
+        "id": "fac_14",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 14"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_15",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.81760252929758,
+          1.9096941578108817
+        ]
+      },
+      "properties": {
+        "id": "fac_15",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 15"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_16",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.781692155972124,
+          1.9315591448778286
+        ]
+      },
+      "properties": {
+        "id": "fac_16",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_17",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.901645907633934,
+          1.9810463528893887
+        ]
+      },
+      "properties": {
+        "id": "fac_17",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 17"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_18",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.28549886896275,
+          -0.062414089594967664
+        ]
+      },
+      "properties": {
+        "id": "fac_18",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 18"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_19",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.38264407014008,
+          0.03573104596696795
+        ]
+      },
+      "properties": {
+        "id": "fac_19",
+        "type": "clinic",
+        "amenity": "clinic",
+        "name": "Clinic 19"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_20",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.42124656198546,
+          2.629587060105987
+        ]
+      },
+      "properties": {
+        "id": "fac_20",
+        "type": "shelter",
+        "amenity": "shelter",
+        "name": "Shelter 20",
+        "emergency": "assembly_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_21",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.72742608488071,
+          0.31988086417317396
+        ]
+      },
+      "properties": {
+        "id": "fac_21",
+        "type": "shelter",
+        "amenity": "shelter",
+        "name": "Shelter 21",
+        "emergency": "assembly_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_22",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.41462280978448,
+          2.544013550444506
+        ]
+      },
+      "properties": {
+        "id": "fac_22",
+        "type": "shelter",
+        "amenity": "shelter",
+        "name": "Shelter 22",
+        "emergency": "assembly_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_23",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.99921787146013,
+          1.8905821804795413
+        ]
+      },
+      "properties": {
+        "id": "fac_23",
+        "type": "shelter",
+        "amenity": "shelter",
+        "name": "Shelter 23",
+        "emergency": "assembly_point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "fac_24",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.286948507912456,
+          0.07320132380817086
+        ]
+      },
+      "properties": {
+        "id": "fac_24",
+        "type": "shelter",
+        "amenity": "shelter",
+        "name": "Shelter 24",
+        "emergency": "assembly_point"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8745 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "bld_0",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.855563,
+              0.469496
+            ],
+            [
+              40.85511,
+              0.470266
+            ],
+            [
+              40.853984,
+              0.469605
+            ],
+            [
+              40.854436,
+              0.468834
+            ],
+            [
+              40.855563,
+              0.469496
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_0",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3912,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_1",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.781365,
+              0.353188
+            ],
+            [
+              40.780088,
+              0.353509
+            ],
+            [
+              40.779709,
+              0.352003
+            ],
+            [
+              40.780985,
+              0.351681
+            ],
+            [
+              40.781365,
+              0.353188
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_1",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 7260,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_2",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.893235,
+              0.385237
+            ],
+            [
+              40.892954,
+              0.385868
+            ],
+            [
+              40.892187,
+              0.385527
+            ],
+            [
+              40.892468,
+              0.384895
+            ],
+            [
+              40.893235,
+              0.385237
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_2",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2391,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_3",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.820826,
+              0.313119
+            ],
+            [
+              40.820653,
+              0.314247
+            ],
+            [
+              40.81893,
+              0.313982
+            ],
+            [
+              40.819103,
+              0.312855
+            ],
+            [
+              40.820826,
+              0.313119
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_3",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6707,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_4",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.815958,
+              0.468466
+            ],
+            [
+              40.814972,
+              0.468947
+            ],
+            [
+              40.814529,
+              0.468042
+            ],
+            [
+              40.815515,
+              0.46756
+            ],
+            [
+              40.815958,
+              0.468466
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_4",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 4968,
+        "confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_5",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.864851,
+              0.302124
+            ],
+            [
+              40.865027,
+              0.302579
+            ],
+            [
+              40.864362,
+              0.302836
+            ],
+            [
+              40.864186,
+              0.302381
+            ],
+            [
+              40.864851,
+              0.302124
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_5",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1593,
+        "confidence": 0.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_6",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.769042,
+              0.489302
+            ],
+            [
+              40.76992,
+              0.489617
+            ],
+            [
+              40.769613,
+              0.49047
+            ],
+            [
+              40.768736,
+              0.490155
+            ],
+            [
+              40.769042,
+              0.489302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_6",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2704,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_7",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.725092,
+              0.386689
+            ],
+            [
+              40.723541,
+              0.38674
+            ],
+            [
+              40.723503,
+              0.385555
+            ],
+            [
+              40.725054,
+              0.385505
+            ],
+            [
+              40.725092,
+              0.386689
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_7",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 5501,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_8",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.710596,
+              0.451721
+            ],
+            [
+              40.71164,
+              0.451998
+            ],
+            [
+              40.711215,
+              0.453603
+            ],
+            [
+              40.710171,
+              0.453326
+            ],
+            [
+              40.710596,
+              0.451721
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_8",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 6432,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_9",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.864687,
+              0.442638
+            ],
+            [
+              40.865342,
+              0.442645
+            ],
+            [
+              40.865331,
+              0.443622
+            ],
+            [
+              40.864676,
+              0.443614
+            ],
+            [
+              40.864687,
+              0.442638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_9",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 3294,
+        "confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_10",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.900522,
+              0.351916
+            ],
+            [
+              40.899961,
+              0.352782
+            ],
+            [
+              40.899282,
+              0.352342
+            ],
+            [
+              40.899843,
+              0.351476
+            ],
+            [
+              40.900522,
+              0.351916
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_10",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2545,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_11",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.744535,
+              0.32619
+            ],
+            [
+              40.744661,
+              0.326826
+            ],
+            [
+              40.744031,
+              0.32695
+            ],
+            [
+              40.743905,
+              0.326314
+            ],
+            [
+              40.744535,
+              0.32619
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_11",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 2184,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_12",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.715272,
+              0.339179
+            ],
+            [
+              40.715505,
+              0.339663
+            ],
+            [
+              40.715181,
+              0.339819
+            ],
+            [
+              40.714947,
+              0.339335
+            ],
+            [
+              40.715272,
+              0.339179
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_12",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 800,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_13",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.746774,
+              0.427043
+            ],
+            [
+              40.745527,
+              0.427049
+            ],
+            [
+              40.74552,
+              0.425806
+            ],
+            [
+              40.746767,
+              0.4258
+            ],
+            [
+              40.746774,
+              0.427043
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_13",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 3633,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_14",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.829876,
+              0.483886
+            ],
+            [
+              40.830011,
+              0.484296
+            ],
+            [
+              40.829671,
+              0.484409
+            ],
+            [
+              40.829536,
+              0.483998
+            ],
+            [
+              40.829876,
+              0.483886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_14",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 677,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_15",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.756372,
+              0.431498
+            ],
+            [
+              40.756677,
+              0.432396
+            ],
+            [
+              40.755854,
+              0.432676
+            ],
+            [
+              40.755549,
+              0.431778
+            ],
+            [
+              40.756372,
+              0.431498
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_15",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2366,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_16",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.825405,
+              0.335692
+            ],
+            [
+              40.82584,
+              0.336166
+            ],
+            [
+              40.82544,
+              0.336534
+            ],
+            [
+              40.825005,
+              0.33606
+            ],
+            [
+              40.825405,
+              0.335692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_16",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1539,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_17",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.896788,
+              0.494657
+            ],
+            [
+              40.896332,
+              0.495497
+            ],
+            [
+              40.895564,
+              0.49508
+            ],
+            [
+              40.89602,
+              0.49424
+            ],
+            [
+              40.896788,
+              0.494657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_17",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 3790,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_18",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.889014,
+              0.489064
+            ],
+            [
+              40.887638,
+              0.489608
+            ],
+            [
+              40.887057,
+              0.488138
+            ],
+            [
+              40.888434,
+              0.487594
+            ],
+            [
+              40.889014,
+              0.489064
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_18",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 6956,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_19",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.820193,
+              0.389451
+            ],
+            [
+              40.820528,
+              0.391337
+            ],
+            [
+              40.819441,
+              0.39153
+            ],
+            [
+              40.819107,
+              0.389644
+            ],
+            [
+              40.820193,
+              0.389451
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_19",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 7990,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_20",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.862784,
+              0.340654
+            ],
+            [
+              40.862185,
+              0.340721
+            ],
+            [
+              40.862138,
+              0.340303
+            ],
+            [
+              40.862737,
+              0.340235
+            ],
+            [
+              40.862784,
+              0.340654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_20",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1255,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_21",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.687164,
+              0.481225
+            ],
+            [
+              40.687392,
+              0.481683
+            ],
+            [
+              40.686836,
+              0.481959
+            ],
+            [
+              40.686608,
+              0.4815
+            ],
+            [
+              40.687164,
+              0.481225
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_21",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 1203,
+        "confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_22",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.747629,
+              0.458052
+            ],
+            [
+              40.748214,
+              0.459038
+            ],
+            [
+              40.747431,
+              0.459502
+            ],
+            [
+              40.746846,
+              0.458516
+            ],
+            [
+              40.747629,
+              0.458052
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_22",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 3621,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_23",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.699189,
+              0.479441
+            ],
+            [
+              40.699954,
+              0.480167
+            ],
+            [
+              40.69916,
+              0.481005
+            ],
+            [
+              40.698395,
+              0.480279
+            ],
+            [
+              40.699189,
+              0.479441
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_23",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 5447,
+        "confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_24",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.710892,
+              0.340568
+            ],
+            [
+              40.711705,
+              0.341161
+            ],
+            [
+              40.711224,
+              0.341818
+            ],
+            [
+              40.710412,
+              0.341224
+            ],
+            [
+              40.710892,
+              0.340568
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_24",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 3857,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_25",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.874773,
+              0.410054
+            ],
+            [
+              40.874706,
+              0.410738
+            ],
+            [
+              40.873773,
+              0.410646
+            ],
+            [
+              40.87384,
+              0.409962
+            ],
+            [
+              40.874773,
+              0.410054
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_25",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1886,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_26",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.86524,
+              0.378117
+            ],
+            [
+              40.865156,
+              0.379114
+            ],
+            [
+              40.864455,
+              0.379055
+            ],
+            [
+              40.864539,
+              0.378058
+            ],
+            [
+              40.86524,
+              0.378117
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_26",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2189,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_27",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.822248,
+              0.369942
+            ],
+            [
+              40.822177,
+              0.37084
+            ],
+            [
+              40.821181,
+              0.370761
+            ],
+            [
+              40.821252,
+              0.369863
+            ],
+            [
+              40.822248,
+              0.369942
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_27",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 3863,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_28",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.799781,
+              0.417147
+            ],
+            [
+              40.800029,
+              0.417471
+            ],
+            [
+              40.799582,
+              0.417814
+            ],
+            [
+              40.799334,
+              0.41749
+            ],
+            [
+              40.799781,
+              0.417147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_28",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 754,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_29",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.717958,
+              0.495484
+            ],
+            [
+              40.717475,
+              0.496076
+            ],
+            [
+              40.716842,
+              0.495559
+            ],
+            [
+              40.717325,
+              0.494967
+            ],
+            [
+              40.717958,
+              0.495484
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_29",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2209,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_30",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.801143,
+              0.322707
+            ],
+            [
+              40.800066,
+              0.323346
+            ],
+            [
+              40.799518,
+              0.322422
+            ],
+            [
+              40.800595,
+              0.321783
+            ],
+            [
+              40.801143,
+              0.322707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_30",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 3794,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_31",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.838307,
+              0.319825
+            ],
+            [
+              40.839506,
+              0.320256
+            ],
+            [
+              40.839126,
+              0.321312
+            ],
+            [
+              40.837927,
+              0.320881
+            ],
+            [
+              40.838307,
+              0.319825
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_31",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5634,
+        "confidence": 0.74
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_32",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.900374,
+              0.338925
+            ],
+            [
+              40.900861,
+              0.339144
+            ],
+            [
+              40.900722,
+              0.339455
+            ],
+            [
+              40.900234,
+              0.339236
+            ],
+            [
+              40.900374,
+              0.338925
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_32",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 756,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_33",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.859864,
+              0.341924
+            ],
+            [
+              40.85984,
+              0.342338
+            ],
+            [
+              40.859205,
+              0.342302
+            ],
+            [
+              40.859228,
+              0.341888
+            ],
+            [
+              40.859864,
+              0.341924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_33",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 899,
+        "confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_34",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.897937,
+              0.455261
+            ],
+            [
+              40.898677,
+              0.455712
+            ],
+            [
+              40.898206,
+              0.456486
+            ],
+            [
+              40.897465,
+              0.456035
+            ],
+            [
+              40.897937,
+              0.455261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_34",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2585,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_35",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.825513,
+              0.381321
+            ],
+            [
+              40.82506,
+              0.381485
+            ],
+            [
+              40.824906,
+              0.381062
+            ],
+            [
+              40.825359,
+              0.380897
+            ],
+            [
+              40.825513,
+              0.381321
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_35",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 816,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_36",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.849371,
+              0.365658
+            ],
+            [
+              40.850785,
+              0.366709
+            ],
+            [
+              40.849875,
+              0.367932
+            ],
+            [
+              40.848462,
+              0.366881
+            ],
+            [
+              40.849371,
+              0.365658
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_36",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 7431,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_37",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.688375,
+              0.345428
+            ],
+            [
+              40.687972,
+              0.346517
+            ],
+            [
+              40.686787,
+              0.346078
+            ],
+            [
+              40.68719,
+              0.344989
+            ],
+            [
+              40.688375,
+              0.345428
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_37",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 4534,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_38",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.845356,
+              0.433335
+            ],
+            [
+              40.846843,
+              0.433692
+            ],
+            [
+              40.846466,
+              0.435263
+            ],
+            [
+              40.844978,
+              0.434906
+            ],
+            [
+              40.845356,
+              0.433335
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_38",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7000,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_39",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.80069,
+              0.393207
+            ],
+            [
+              40.799651,
+              0.393805
+            ],
+            [
+              40.799256,
+              0.393118
+            ],
+            [
+              40.800295,
+              0.39252
+            ],
+            [
+              40.80069,
+              0.393207
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_39",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 3491,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_40",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.786893,
+              0.451261
+            ],
+            [
+              40.786835,
+              0.451607
+            ],
+            [
+              40.786358,
+              0.451527
+            ],
+            [
+              40.786416,
+              0.451181
+            ],
+            [
+              40.786893,
+              0.451261
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_40",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 644,
+        "confidence": 0.6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_41",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.732946,
+              0.49286
+            ],
+            [
+              40.732292,
+              0.493461
+            ],
+            [
+              40.731441,
+              0.492534
+            ],
+            [
+              40.732095,
+              0.491934
+            ],
+            [
+              40.732946,
+              0.49286
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_41",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 4152,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_42",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.875655,
+              0.404125
+            ],
+            [
+              40.875504,
+              0.404494
+            ],
+            [
+              40.875228,
+              0.40438
+            ],
+            [
+              40.875379,
+              0.404011
+            ],
+            [
+              40.875655,
+              0.404125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_42",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 734,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_43",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.725953,
+              0.388581
+            ],
+            [
+              40.725141,
+              0.388597
+            ],
+            [
+              40.72512,
+              0.387517
+            ],
+            [
+              40.725931,
+              0.387501
+            ],
+            [
+              40.725953,
+              0.388581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_43",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 4682,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_44",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.915509,
+              0.434909
+            ],
+            [
+              40.915011,
+              0.435239
+            ],
+            [
+              40.91453,
+              0.434513
+            ],
+            [
+              40.915029,
+              0.434183
+            ],
+            [
+              40.915509,
+              0.434909
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_44",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 2474,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_45",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.748514,
+              0.359992
+            ],
+            [
+              40.74767,
+              0.360573
+            ],
+            [
+              40.74704,
+              0.359657
+            ],
+            [
+              40.747885,
+              0.359077
+            ],
+            [
+              40.748514,
+              0.359992
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_45",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6730,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_46",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.802367,
+              0.402319
+            ],
+            [
+              40.802386,
+              0.403204
+            ],
+            [
+              40.801643,
+              0.40322
+            ],
+            [
+              40.801623,
+              0.402336
+            ],
+            [
+              40.802367,
+              0.402319
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_46",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 4359,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_47",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.74845,
+              0.387561
+            ],
+            [
+              40.748461,
+              0.388521
+            ],
+            [
+              40.747907,
+              0.388527
+            ],
+            [
+              40.747896,
+              0.387567
+            ],
+            [
+              40.74845,
+              0.387561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_47",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2380,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_48",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.781976,
+              0.448848
+            ],
+            [
+              40.782272,
+              0.449057
+            ],
+            [
+              40.782073,
+              0.449339
+            ],
+            [
+              40.781777,
+              0.449131
+            ],
+            [
+              40.781976,
+              0.448848
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_48",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1019,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_49",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.913196,
+              0.314526
+            ],
+            [
+              40.912753,
+              0.31531
+            ],
+            [
+              40.911775,
+              0.314756
+            ],
+            [
+              40.912219,
+              0.313973
+            ],
+            [
+              40.913196,
+              0.314526
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_49",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 5818,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_50",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.745193,
+              0.357769
+            ],
+            [
+              40.744351,
+              0.357959
+            ],
+            [
+              40.744192,
+              0.357256
+            ],
+            [
+              40.745034,
+              0.357065
+            ],
+            [
+              40.745193,
+              0.357769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_50",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2839,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_51",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.718546,
+              0.405308
+            ],
+            [
+              40.718327,
+              0.406773
+            ],
+            [
+              40.717312,
+              0.406621
+            ],
+            [
+              40.717532,
+              0.405156
+            ],
+            [
+              40.718546,
+              0.405308
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_51",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 6849,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_52",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.718843,
+              0.317284
+            ],
+            [
+              40.718862,
+              0.317729
+            ],
+            [
+              40.718369,
+              0.31775
+            ],
+            [
+              40.71835,
+              0.317305
+            ],
+            [
+              40.718843,
+              0.317284
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_52",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 1050,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_53",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.86828,
+              0.314886
+            ],
+            [
+              40.868597,
+              0.315403
+            ],
+            [
+              40.868167,
+              0.315666
+            ],
+            [
+              40.867851,
+              0.315149
+            ],
+            [
+              40.86828,
+              0.314886
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_53",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 824,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_54",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.886751,
+              0.48677
+            ],
+            [
+              40.886325,
+              0.487169
+            ],
+            [
+              40.885942,
+              0.486761
+            ],
+            [
+              40.886368,
+              0.486362
+            ],
+            [
+              40.886751,
+              0.48677
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_54",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 873,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_55",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.908927,
+              0.444605
+            ],
+            [
+              40.909167,
+              0.445688
+            ],
+            [
+              40.908209,
+              0.4459
+            ],
+            [
+              40.907969,
+              0.444817
+            ],
+            [
+              40.908927,
+              0.444605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_55",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6944,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_56",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.879207,
+              0.353307
+            ],
+            [
+              40.879827,
+              0.35341
+            ],
+            [
+              40.879754,
+              0.35385
+            ],
+            [
+              40.879134,
+              0.353747
+            ],
+            [
+              40.879207,
+              0.353307
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_56",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1566,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_57",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.681547,
+              0.310857
+            ],
+            [
+              40.68033,
+              0.311408
+            ],
+            [
+              40.679743,
+              0.310112
+            ],
+            [
+              40.68096,
+              0.309561
+            ],
+            [
+              40.681547,
+              0.310857
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_57",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5811,
+        "confidence": 0.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_58",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.753679,
+              0.499166
+            ],
+            [
+              40.753827,
+              0.499577
+            ],
+            [
+              40.753438,
+              0.499716
+            ],
+            [
+              40.753291,
+              0.499306
+            ],
+            [
+              40.753679,
+              0.499166
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_58",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 808,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_59",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.818045,
+              0.49964
+            ],
+            [
+              40.818028,
+              0.500332
+            ],
+            [
+              40.817202,
+              0.500312
+            ],
+            [
+              40.817219,
+              0.49962
+            ],
+            [
+              40.818045,
+              0.49964
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_59",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2902,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_60",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.763586,
+              0.361628
+            ],
+            [
+              40.762979,
+              0.36197
+            ],
+            [
+              40.762645,
+              0.361377
+            ],
+            [
+              40.763252,
+              0.361035
+            ],
+            [
+              40.763586,
+              0.361628
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_60",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 1207,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_61",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.839556,
+              0.43925
+            ],
+            [
+              40.839682,
+              0.439845
+            ],
+            [
+              40.838753,
+              0.440042
+            ],
+            [
+              40.838627,
+              0.439447
+            ],
+            [
+              40.839556,
+              0.43925
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_61",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3157,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_62",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.89771,
+              0.395114
+            ],
+            [
+              40.896368,
+              0.39607
+            ],
+            [
+              40.895631,
+              0.395037
+            ],
+            [
+              40.896974,
+              0.39408
+            ],
+            [
+              40.89771,
+              0.395114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_62",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5835,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_63",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.846509,
+              0.353775
+            ],
+            [
+              40.847382,
+              0.354494
+            ],
+            [
+              40.846241,
+              0.35588
+            ],
+            [
+              40.845368,
+              0.35516
+            ],
+            [
+              40.846509,
+              0.353775
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_63",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7768,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_64",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.891949,
+              0.435643
+            ],
+            [
+              40.892248,
+              0.436287
+            ],
+            [
+              40.891506,
+              0.436631
+            ],
+            [
+              40.891207,
+              0.435987
+            ],
+            [
+              40.891949,
+              0.435643
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_64",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3255,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_65",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.816937,
+              0.432542
+            ],
+            [
+              40.817132,
+              0.43275
+            ],
+            [
+              40.816875,
+              0.43299
+            ],
+            [
+              40.81668,
+              0.432781
+            ],
+            [
+              40.816937,
+              0.432542
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_65",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 690,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_66",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.730401,
+              0.463329
+            ],
+            [
+              40.730176,
+              0.464523
+            ],
+            [
+              40.729148,
+              0.464329
+            ],
+            [
+              40.729373,
+              0.463135
+            ],
+            [
+              40.730401,
+              0.463329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_66",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3943,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_67",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.859493,
+              0.384664
+            ],
+            [
+              40.860393,
+              0.384905
+            ],
+            [
+              40.860211,
+              0.385582
+            ],
+            [
+              40.859312,
+              0.385341
+            ],
+            [
+              40.859493,
+              0.384664
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_67",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 2051,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_68",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.892269,
+              0.362971
+            ],
+            [
+              40.891435,
+              0.36393
+            ],
+            [
+              40.890298,
+              0.362942
+            ],
+            [
+              40.891132,
+              0.361982
+            ],
+            [
+              40.892269,
+              0.362971
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_68",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 5414,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_69",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              40.751426,
+              0.410134
+            ],
+            [
+              40.750876,
+              0.411179
+            ],
+            [
+              40.750182,
+              0.410814
+            ],
+            [
+              40.750732,
+              0.409769
+            ],
+            [
+              40.751426,
+              0.410134
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_69",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 4843,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_70",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.191413,
+              0.086526
+            ],
+            [
+              41.190537,
+              0.087169
+            ],
+            [
+              41.19001,
+              0.08645
+            ],
+            [
+              41.190886,
+              0.085808
+            ],
+            [
+              41.191413,
+              0.086526
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_70",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 4212,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_71",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.407431,
+              -0.043243
+            ],
+            [
+              41.406987,
+              -0.042614
+            ],
+            [
+              41.406238,
+              -0.043144
+            ],
+            [
+              41.406682,
+              -0.043773
+            ],
+            [
+              41.407431,
+              -0.043243
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_71",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 4881,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_72",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.192007,
+              0.017748
+            ],
+            [
+              41.191681,
+              0.018625
+            ],
+            [
+              41.190993,
+              0.018369
+            ],
+            [
+              41.191319,
+              0.017492
+            ],
+            [
+              41.192007,
+              0.017748
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_72",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 1961,
+        "confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_73",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.22181,
+              0.084301
+            ],
+            [
+              41.221198,
+              0.084304
+            ],
+            [
+              41.221195,
+              0.083748
+            ],
+            [
+              41.221808,
+              0.083745
+            ],
+            [
+              41.22181,
+              0.084301
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_73",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1199,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_74",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.300972,
+              -0.066499
+            ],
+            [
+              41.302042,
+              -0.065506
+            ],
+            [
+              41.301176,
+              -0.064572
+            ],
+            [
+              41.300106,
+              -0.065565
+            ],
+            [
+              41.300972,
+              -0.066499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_74",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 7722,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_75",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.240633,
+              0.026493
+            ],
+            [
+              41.23999,
+              0.027216
+            ],
+            [
+              41.239069,
+              0.026396
+            ],
+            [
+              41.239712,
+              0.025673
+            ],
+            [
+              41.240633,
+              0.026493
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_75",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5156,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_76",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.26599,
+              -0.032508
+            ],
+            [
+              41.266534,
+              -0.031873
+            ],
+            [
+              41.265697,
+              -0.031157
+            ],
+            [
+              41.265153,
+              -0.031792
+            ],
+            [
+              41.26599,
+              -0.032508
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_76",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2704,
+        "confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_77",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.253922,
+              -0.044669
+            ],
+            [
+              41.253415,
+              -0.044185
+            ],
+            [
+              41.252891,
+              -0.044735
+            ],
+            [
+              41.253397,
+              -0.045219
+            ],
+            [
+              41.253922,
+              -0.044669
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_77",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3055,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_78",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.40594,
+              -0.030806
+            ],
+            [
+              41.406857,
+              -0.03025
+            ],
+            [
+              41.406467,
+              -0.029607
+            ],
+            [
+              41.40555,
+              -0.030163
+            ],
+            [
+              41.40594,
+              -0.030806
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_78",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 4192,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_79",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.275593,
+              -0.058531
+            ],
+            [
+              41.274879,
+              -0.058402
+            ],
+            [
+              41.274769,
+              -0.059009
+            ],
+            [
+              41.275483,
+              -0.059138
+            ],
+            [
+              41.275593,
+              -0.058531
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_79",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2646,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_80",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.191961,
+              0.070234
+            ],
+            [
+              41.191829,
+              0.071137
+            ],
+            [
+              41.191103,
+              0.07103
+            ],
+            [
+              41.191235,
+              0.070127
+            ],
+            [
+              41.191961,
+              0.070234
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_80",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1804,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_81",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.314871,
+              -0.083411
+            ],
+            [
+              41.314904,
+              -0.083028
+            ],
+            [
+              41.314469,
+              -0.08299
+            ],
+            [
+              41.314435,
+              -0.083373
+            ],
+            [
+              41.314871,
+              -0.083411
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_81",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 948,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_82",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.415571,
+              0.044601
+            ],
+            [
+              41.41564,
+              0.045616
+            ],
+            [
+              41.414813,
+              0.045673
+            ],
+            [
+              41.414744,
+              0.044657
+            ],
+            [
+              41.415571,
+              0.044601
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_82",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2646,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_83",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.392678,
+              0.038555
+            ],
+            [
+              41.393307,
+              0.038902
+            ],
+            [
+              41.393029,
+              0.039405
+            ],
+            [
+              41.3924,
+              0.039057
+            ],
+            [
+              41.392678,
+              0.038555
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_83",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1188,
+        "confidence": 0.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_84",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.330577,
+              0.07367
+            ],
+            [
+              41.32917,
+              0.074437
+            ],
+            [
+              41.328486,
+              0.07318
+            ],
+            [
+              41.329892,
+              0.072414
+            ],
+            [
+              41.330577,
+              0.07367
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_84",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7110,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_85",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.318213,
+              0.051746
+            ],
+            [
+              41.317195,
+              0.052678
+            ],
+            [
+              41.31618,
+              0.05157
+            ],
+            [
+              41.317198,
+              0.050638
+            ],
+            [
+              41.318213,
+              0.051746
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_85",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 6534,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_86",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.301165,
+              -0.096349
+            ],
+            [
+              41.301027,
+              -0.095945
+            ],
+            [
+              41.300598,
+              -0.096091
+            ],
+            [
+              41.300736,
+              -0.096496
+            ],
+            [
+              41.301165,
+              -0.096349
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_86",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1010,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_87",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.416781,
+              0.047121
+            ],
+            [
+              41.417661,
+              0.048284
+            ],
+            [
+              41.416515,
+              0.049151
+            ],
+            [
+              41.415635,
+              0.047989
+            ],
+            [
+              41.416781,
+              0.047121
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_87",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 5186,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_88",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.3844,
+              0.01461
+            ],
+            [
+              41.385085,
+              0.014959
+            ],
+            [
+              41.384716,
+              0.015683
+            ],
+            [
+              41.384031,
+              0.015334
+            ],
+            [
+              41.3844,
+              0.01461
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_88",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 1942,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_89",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.356753,
+              0.03333
+            ],
+            [
+              41.356957,
+              0.033674
+            ],
+            [
+              41.35653,
+              0.033929
+            ],
+            [
+              41.356325,
+              0.033585
+            ],
+            [
+              41.356753,
+              0.03333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_89",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 648,
+        "confidence": 0.6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_90",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.340428,
+              -0.020507
+            ],
+            [
+              41.340284,
+              -0.019963
+            ],
+            [
+              41.339297,
+              -0.020223
+            ],
+            [
+              41.339441,
+              -0.020768
+            ],
+            [
+              41.340428,
+              -0.020507
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_90",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 2256,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_91",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.354106,
+              0.087214
+            ],
+            [
+              41.354587,
+              0.088019
+            ],
+            [
+              41.354081,
+              0.08832
+            ],
+            [
+              41.353601,
+              0.087515
+            ],
+            [
+              41.354106,
+              0.087214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_91",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2076,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_92",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.364708,
+              0.024626
+            ],
+            [
+              41.365541,
+              0.024736
+            ],
+            [
+              41.365452,
+              0.025412
+            ],
+            [
+              41.364618,
+              0.025302
+            ],
+            [
+              41.364708,
+              0.024626
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_92",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 1690,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_93",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.232782,
+              -0.072761
+            ],
+            [
+              41.232107,
+              -0.072641
+            ],
+            [
+              41.232034,
+              -0.073053
+            ],
+            [
+              41.232709,
+              -0.073172
+            ],
+            [
+              41.232782,
+              -0.072761
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_93",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1234,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_94",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.392061,
+              -0.003389
+            ],
+            [
+              41.392967,
+              -0.003336
+            ],
+            [
+              41.392896,
+              -0.002137
+            ],
+            [
+              41.39199,
+              -0.002191
+            ],
+            [
+              41.392061,
+              -0.003389
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_94",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 4647,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_95",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.396709,
+              0.066781
+            ],
+            [
+              41.397271,
+              0.06774
+            ],
+            [
+              41.396232,
+              0.068349
+            ],
+            [
+              41.39567,
+              0.06739
+            ],
+            [
+              41.396709,
+              0.066781
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_95",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3250,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_96",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.343885,
+              -0.077303
+            ],
+            [
+              41.343442,
+              -0.076519
+            ],
+            [
+              41.342741,
+              -0.076915
+            ],
+            [
+              41.343183,
+              -0.077699
+            ],
+            [
+              41.343885,
+              -0.077303
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_96",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3335,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_97",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.407927,
+              -0.013393
+            ],
+            [
+              41.408022,
+              -0.012573
+            ],
+            [
+              41.407377,
+              -0.012499
+            ],
+            [
+              41.407282,
+              -0.013318
+            ],
+            [
+              41.407927,
+              -0.013393
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_97",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2083,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_98",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.382632,
+              -0.02866
+            ],
+            [
+              41.383214,
+              -0.028469
+            ],
+            [
+              41.383009,
+              -0.027845
+            ],
+            [
+              41.382427,
+              -0.028036
+            ],
+            [
+              41.382632,
+              -0.02866
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_98",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 3170,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_99",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.199106,
+              0.087502
+            ],
+            [
+              41.199207,
+              0.088066
+            ],
+            [
+              41.198508,
+              0.088191
+            ],
+            [
+              41.198407,
+              0.087627
+            ],
+            [
+              41.199106,
+              0.087502
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_99",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1492,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_100",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.216162,
+              0.019285
+            ],
+            [
+              41.215326,
+              0.02017
+            ],
+            [
+              41.214286,
+              0.019189
+            ],
+            [
+              41.215122,
+              0.018303
+            ],
+            [
+              41.216162,
+              0.019285
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_100",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 4787,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_101",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.330034,
+              0.059395
+            ],
+            [
+              41.329189,
+              0.059936
+            ],
+            [
+              41.328518,
+              0.058889
+            ],
+            [
+              41.329363,
+              0.058348
+            ],
+            [
+              41.330034,
+              0.059395
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_101",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 6930,
+        "confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_102",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.299108,
+              0.008831
+            ],
+            [
+              41.298979,
+              0.009263
+            ],
+            [
+              41.298352,
+              0.009075
+            ],
+            [
+              41.298481,
+              0.008643
+            ],
+            [
+              41.299108,
+              0.008831
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_102",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1042,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_103",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.320623,
+              0.039828
+            ],
+            [
+              41.319494,
+              0.040241
+            ],
+            [
+              41.319142,
+              0.039282
+            ],
+            [
+              41.320272,
+              0.038868
+            ],
+            [
+              41.320623,
+              0.039828
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_103",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6097,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_104",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.180842,
+              -0.085091
+            ],
+            [
+              41.180693,
+              -0.084483
+            ],
+            [
+              41.180219,
+              -0.084599
+            ],
+            [
+              41.180368,
+              -0.085207
+            ],
+            [
+              41.180842,
+              -0.085091
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_104",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1891,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_105",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.347519,
+              -0.020952
+            ],
+            [
+              41.348422,
+              -0.020893
+            ],
+            [
+              41.348353,
+              -0.019824
+            ],
+            [
+              41.347449,
+              -0.019883
+            ],
+            [
+              41.347519,
+              -0.020952
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_105",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 4837,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_106",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.192567,
+              -0.094587
+            ],
+            [
+              41.19153,
+              -0.094001
+            ],
+            [
+              41.191032,
+              -0.094884
+            ],
+            [
+              41.192069,
+              -0.09547
+            ],
+            [
+              41.192567,
+              -0.094587
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_106",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 5530,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_107",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.302526,
+              0.004449
+            ],
+            [
+              41.301979,
+              0.004512
+            ],
+            [
+              41.301928,
+              0.004064
+            ],
+            [
+              41.302475,
+              0.004002
+            ],
+            [
+              41.302526,
+              0.004449
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_107",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 809,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_108",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.262017,
+              -0.098141
+            ],
+            [
+              41.263507,
+              -0.097895
+            ],
+            [
+              41.263379,
+              -0.097121
+            ],
+            [
+              41.261889,
+              -0.097368
+            ],
+            [
+              41.262017,
+              -0.098141
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_108",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 5130,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_109",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.278009,
+              -0.025561
+            ],
+            [
+              41.278806,
+              -0.02513
+            ],
+            [
+              41.27806,
+              -0.023751
+            ],
+            [
+              41.277263,
+              -0.024182
+            ],
+            [
+              41.278009,
+              -0.025561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_109",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6651,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_110",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.417967,
+              -0.052343
+            ],
+            [
+              41.417299,
+              -0.051686
+            ],
+            [
+              41.416773,
+              -0.052221
+            ],
+            [
+              41.417442,
+              -0.052878
+            ],
+            [
+              41.417967,
+              -0.052343
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_110",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 3450,
+        "confidence": 0.6
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_111",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.351959,
+              0.053867
+            ],
+            [
+              41.352355,
+              0.053927
+            ],
+            [
+              41.35228,
+              0.054422
+            ],
+            [
+              41.351883,
+              0.054362
+            ],
+            [
+              41.351959,
+              0.053867
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_111",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 793,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_112",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.309467,
+              -0.036899
+            ],
+            [
+              41.309217,
+              -0.03631
+            ],
+            [
+              41.308422,
+              -0.036647
+            ],
+            [
+              41.308672,
+              -0.037237
+            ],
+            [
+              41.309467,
+              -0.036899
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_112",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1803,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_113",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.35792,
+              0.063521
+            ],
+            [
+              41.358075,
+              0.063983
+            ],
+            [
+              41.357535,
+              0.064164
+            ],
+            [
+              41.35738,
+              0.063703
+            ],
+            [
+              41.35792,
+              0.063521
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_113",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 711,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_114",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.195097,
+              -0.085943
+            ],
+            [
+              41.194301,
+              -0.085507
+            ],
+            [
+              41.193972,
+              -0.086108
+            ],
+            [
+              41.194768,
+              -0.086544
+            ],
+            [
+              41.195097,
+              -0.085943
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_114",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2445,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_115",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.379998,
+              0.051678
+            ],
+            [
+              41.37972,
+              0.052564
+            ],
+            [
+              41.37918,
+              0.052395
+            ],
+            [
+              41.379457,
+              0.051509
+            ],
+            [
+              41.379998,
+              0.051678
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_115",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 2123,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_116",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.230361,
+              -0.029585
+            ],
+            [
+              41.230547,
+              -0.029245
+            ],
+            [
+              41.230113,
+              -0.029008
+            ],
+            [
+              41.229927,
+              -0.029348
+            ],
+            [
+              41.230361,
+              -0.029585
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_116",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1073,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_117",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.289166,
+              0.053535
+            ],
+            [
+              41.288704,
+              0.05356
+            ],
+            [
+              41.28867,
+              0.052941
+            ],
+            [
+              41.289132,
+              0.052916
+            ],
+            [
+              41.289166,
+              0.053535
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_117",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1066,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_118",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.246152,
+              0.071864
+            ],
+            [
+              41.246534,
+              0.0721
+            ],
+            [
+              41.246115,
+              0.072777
+            ],
+            [
+              41.245734,
+              0.072541
+            ],
+            [
+              41.246152,
+              0.071864
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_118",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1477,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_119",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.238204,
+              0.050569
+            ],
+            [
+              41.239177,
+              0.05104
+            ],
+            [
+              41.238625,
+              0.05218
+            ],
+            [
+              41.237652,
+              0.051708
+            ],
+            [
+              41.238204,
+              0.050569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_119",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 5838,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_120",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.241854,
+              0.088318
+            ],
+            [
+              41.241021,
+              0.088897
+            ],
+            [
+              41.240728,
+              0.088475
+            ],
+            [
+              41.241561,
+              0.087896
+            ],
+            [
+              41.241854,
+              0.088318
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_120",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2221,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_121",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.197251,
+              -0.058174
+            ],
+            [
+              41.197719,
+              -0.057742
+            ],
+            [
+              41.197271,
+              -0.057256
+            ],
+            [
+              41.196803,
+              -0.057688
+            ],
+            [
+              41.197251,
+              -0.058174
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_121",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 3329,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_122",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.399091,
+              -0.018879
+            ],
+            [
+              41.399323,
+              -0.018033
+            ],
+            [
+              41.398428,
+              -0.017788
+            ],
+            [
+              41.398196,
+              -0.018634
+            ],
+            [
+              41.399091,
+              -0.018879
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_122",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5708,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_123",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.206289,
+              0.095346
+            ],
+            [
+              41.207012,
+              0.096344
+            ],
+            [
+              41.205963,
+              0.097104
+            ],
+            [
+              41.20524,
+              0.096106
+            ],
+            [
+              41.206289,
+              0.095346
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_123",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5444,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_124",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              41.380575,
+              -0.030561
+            ],
+            [
+              41.381645,
+              -0.029676
+            ],
+            [
+              41.380573,
+              -0.028379
+            ],
+            [
+              41.379503,
+              -0.029265
+            ],
+            [
+              41.380575,
+              -0.030561
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_124",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6910,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_125",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.492806,
+              2.51956
+            ],
+            [
+              43.492449,
+              2.521352
+            ],
+            [
+              43.491516,
+              2.521166
+            ],
+            [
+              43.491873,
+              2.519375
+            ],
+            [
+              43.492806,
+              2.51956
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_125",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7290,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_126",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.403688,
+              2.69168
+            ],
+            [
+              43.402651,
+              2.692486
+            ],
+            [
+              43.401821,
+              2.691418
+            ],
+            [
+              43.402857,
+              2.690612
+            ],
+            [
+              43.403688,
+              2.69168
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_126",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 5404,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_127",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.364921,
+              2.62128
+            ],
+            [
+              43.363956,
+              2.622199
+            ],
+            [
+              43.363084,
+              2.621283
+            ],
+            [
+              43.364048,
+              2.620364
+            ],
+            [
+              43.364921,
+              2.62128
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_127",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 6927,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_128",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.370618,
+              2.561102
+            ],
+            [
+              43.371172,
+              2.562211
+            ],
+            [
+              43.369988,
+              2.562802
+            ],
+            [
+              43.369435,
+              2.561693
+            ],
+            [
+              43.370618,
+              2.561102
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_128",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 4379,
+        "confidence": 0.68
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_129",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.507008,
+              2.566989
+            ],
+            [
+              43.507177,
+              2.567838
+            ],
+            [
+              43.506535,
+              2.567966
+            ],
+            [
+              43.506365,
+              2.567117
+            ],
+            [
+              43.507008,
+              2.566989
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_129",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 3558,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_130",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.4919,
+              2.541597
+            ],
+            [
+              43.492789,
+              2.541922
+            ],
+            [
+              43.492519,
+              2.542663
+            ],
+            [
+              43.491629,
+              2.542338
+            ],
+            [
+              43.4919,
+              2.541597
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_130",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 4616,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_131",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.437118,
+              2.651499
+            ],
+            [
+              43.437437,
+              2.651893
+            ],
+            [
+              43.437028,
+              2.652224
+            ],
+            [
+              43.436709,
+              2.65183
+            ],
+            [
+              43.437118,
+              2.651499
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_131",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2037,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_132",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.416844,
+              2.697952
+            ],
+            [
+              43.416758,
+              2.698446
+            ],
+            [
+              43.416046,
+              2.698322
+            ],
+            [
+              43.416132,
+              2.697828
+            ],
+            [
+              43.416844,
+              2.697952
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_132",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1987,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_133",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.298512,
+              2.653546
+            ],
+            [
+              43.298793,
+              2.65463
+            ],
+            [
+              43.297483,
+              2.654971
+            ],
+            [
+              43.297201,
+              2.653887
+            ],
+            [
+              43.298512,
+              2.653546
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_133",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6378,
+        "confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_134",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.306112,
+              2.564073
+            ],
+            [
+              43.304705,
+              2.565316
+            ],
+            [
+              43.303821,
+              2.564314
+            ],
+            [
+              43.305228,
+              2.563072
+            ],
+            [
+              43.306112,
+              2.564073
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_134",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 7629,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_135",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.394579,
+              2.603844
+            ],
+            [
+              43.394131,
+              2.604372
+            ],
+            [
+              43.393656,
+              2.60397
+            ],
+            [
+              43.394104,
+              2.603441
+            ],
+            [
+              43.394579,
+              2.603844
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_135",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3058,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_136",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.369301,
+              2.505104
+            ],
+            [
+              43.368619,
+              2.505766
+            ],
+            [
+              43.36813,
+              2.505262
+            ],
+            [
+              43.368812,
+              2.5046
+            ],
+            [
+              43.369301,
+              2.505104
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_136",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3546,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_137",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.486364,
+              2.541245
+            ],
+            [
+              43.487132,
+              2.541614
+            ],
+            [
+              43.486621,
+              2.542676
+            ],
+            [
+              43.485853,
+              2.542306
+            ],
+            [
+              43.486364,
+              2.541245
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_137",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 5737,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_138",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.403583,
+              2.67921
+            ],
+            [
+              43.402784,
+              2.680106
+            ],
+            [
+              43.401652,
+              2.679096
+            ],
+            [
+              43.402452,
+              2.6782
+            ],
+            [
+              43.403583,
+              2.67921
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_138",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 7766,
+        "confidence": 0.86
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_139",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.287281,
+              2.683571
+            ],
+            [
+              43.288057,
+              2.683579
+            ],
+            [
+              43.288049,
+              2.684399
+            ],
+            [
+              43.287273,
+              2.684392
+            ],
+            [
+              43.287281,
+              2.683571
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_139",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1592,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_140",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.281179,
+              2.599055
+            ],
+            [
+              43.281352,
+              2.600398
+            ],
+            [
+              43.279986,
+              2.600574
+            ],
+            [
+              43.279813,
+              2.599231
+            ],
+            [
+              43.281179,
+              2.599055
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_140",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 6428,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_141",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.436807,
+              2.581605
+            ],
+            [
+              43.437496,
+              2.582709
+            ],
+            [
+              43.436517,
+              2.583321
+            ],
+            [
+              43.435827,
+              2.582217
+            ],
+            [
+              43.436807,
+              2.581605
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_141",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 4547,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_142",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.451107,
+              2.698601
+            ],
+            [
+              43.450966,
+              2.699631
+            ],
+            [
+              43.449903,
+              2.699485
+            ],
+            [
+              43.450044,
+              2.698455
+            ],
+            [
+              43.451107,
+              2.698601
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_142",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 7152,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_143",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.353462,
+              2.68838
+            ],
+            [
+              43.355012,
+              2.689017
+            ],
+            [
+              43.354527,
+              2.690197
+            ],
+            [
+              43.352977,
+              2.689561
+            ],
+            [
+              43.353462,
+              2.68838
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_143",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6484,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_144",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.510048,
+              2.689472
+            ],
+            [
+              43.509344,
+              2.690165
+            ],
+            [
+              43.508478,
+              2.689286
+            ],
+            [
+              43.509182,
+              2.688593
+            ],
+            [
+              43.510048,
+              2.689472
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_144",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 4686,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_145",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.417055,
+              2.51819
+            ],
+            [
+              43.41658,
+              2.518668
+            ],
+            [
+              43.416263,
+              2.518353
+            ],
+            [
+              43.416738,
+              2.517875
+            ],
+            [
+              43.417055,
+              2.51819
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_145",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 1257,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_146",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.418006,
+              2.525739
+            ],
+            [
+              43.418549,
+              2.526642
+            ],
+            [
+              43.417433,
+              2.527312
+            ],
+            [
+              43.416891,
+              2.526409
+            ],
+            [
+              43.418006,
+              2.525739
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_146",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 7032,
+        "confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_147",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.292924,
+              2.606537
+            ],
+            [
+              43.294195,
+              2.607276
+            ],
+            [
+              43.293348,
+              2.608732
+            ],
+            [
+              43.292077,
+              2.607993
+            ],
+            [
+              43.292924,
+              2.606537
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_147",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 7944,
+        "confidence": 0.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_148",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.515858,
+              2.57135
+            ],
+            [
+              43.516241,
+              2.571868
+            ],
+            [
+              43.515587,
+              2.572352
+            ],
+            [
+              43.515204,
+              2.571833
+            ],
+            [
+              43.515858,
+              2.57135
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_148",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1958,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_149",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.398525,
+              2.681996
+            ],
+            [
+              43.398926,
+              2.682522
+            ],
+            [
+              43.398252,
+              2.683035
+            ],
+            [
+              43.397851,
+              2.682509
+            ],
+            [
+              43.398525,
+              2.681996
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_149",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2571,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_150",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.338004,
+              2.554977
+            ],
+            [
+              43.336983,
+              2.555783
+            ],
+            [
+              43.336204,
+              2.554796
+            ],
+            [
+              43.337224,
+              2.55399
+            ],
+            [
+              43.338004,
+              2.554977
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_150",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 7407,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_151",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.469083,
+              2.616559
+            ],
+            [
+              43.469799,
+              2.617497
+            ],
+            [
+              43.468652,
+              2.618373
+            ],
+            [
+              43.467936,
+              2.617434
+            ],
+            [
+              43.469083,
+              2.616559
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_151",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 4634,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_152",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.305004,
+              2.534757
+            ],
+            [
+              43.305767,
+              2.536093
+            ],
+            [
+              43.304354,
+              2.5369
+            ],
+            [
+              43.303591,
+              2.535564
+            ],
+            [
+              43.305004,
+              2.534757
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_152",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 7281,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_153",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.298243,
+              2.599296
+            ],
+            [
+              43.297105,
+              2.59966
+            ],
+            [
+              43.296767,
+              2.598605
+            ],
+            [
+              43.297906,
+              2.598241
+            ],
+            [
+              43.298243,
+              2.599296
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_153",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6320,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_154",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.305159,
+              2.667067
+            ],
+            [
+              43.3062,
+              2.66783
+            ],
+            [
+              43.305339,
+              2.669006
+            ],
+            [
+              43.304298,
+              2.668244
+            ],
+            [
+              43.305159,
+              2.667067
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_154",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7082,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_155",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.469187,
+              2.687887
+            ],
+            [
+              43.4688,
+              2.688312
+            ],
+            [
+              43.468252,
+              2.687812
+            ],
+            [
+              43.468639,
+              2.687387
+            ],
+            [
+              43.469187,
+              2.687887
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_155",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2035,
+        "confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_156",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.425473,
+              2.560287
+            ],
+            [
+              43.424726,
+              2.561435
+            ],
+            [
+              43.423725,
+              2.560783
+            ],
+            [
+              43.424472,
+              2.559636
+            ],
+            [
+              43.425473,
+              2.560287
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_156",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 4536,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_157",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.453833,
+              2.581657
+            ],
+            [
+              43.453573,
+              2.582446
+            ],
+            [
+              43.452992,
+              2.582254
+            ],
+            [
+              43.453252,
+              2.581466
+            ],
+            [
+              43.453833,
+              2.581657
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_157",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2354,
+        "confidence": 0.81
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_158",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.482924,
+              2.639947
+            ],
+            [
+              43.483129,
+              2.640835
+            ],
+            [
+              43.48207,
+              2.641078
+            ],
+            [
+              43.481866,
+              2.640191
+            ],
+            [
+              43.482924,
+              2.639947
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_158",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 4092,
+        "confidence": 0.77
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_159",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.304625,
+              2.57854
+            ],
+            [
+              43.303783,
+              2.579107
+            ],
+            [
+              43.303317,
+              2.578415
+            ],
+            [
+              43.304159,
+              2.577848
+            ],
+            [
+              43.304625,
+              2.57854
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_159",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 5383,
+        "confidence": 0.87
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_160",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.2883,
+              2.515954
+            ],
+            [
+              43.287865,
+              2.516413
+            ],
+            [
+              43.287098,
+              2.515687
+            ],
+            [
+              43.287532,
+              2.515228
+            ],
+            [
+              43.2883,
+              2.515954
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_160",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2902,
+        "confidence": 0.68
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_161",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.42951,
+              2.536302
+            ],
+            [
+              43.429516,
+              2.536765
+            ],
+            [
+              43.429021,
+              2.536771
+            ],
+            [
+              43.429015,
+              2.536308
+            ],
+            [
+              43.42951,
+              2.536302
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_161",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 1589,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_162",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.373698,
+              2.537764
+            ],
+            [
+              43.372482,
+              2.538144
+            ],
+            [
+              43.372183,
+              2.537186
+            ],
+            [
+              43.373399,
+              2.536806
+            ],
+            [
+              43.373698,
+              2.537764
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_162",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 4798,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_163",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.410095,
+              2.639826
+            ],
+            [
+              43.409352,
+              2.640032
+            ],
+            [
+              43.409207,
+              2.63951
+            ],
+            [
+              43.40995,
+              2.639304
+            ],
+            [
+              43.410095,
+              2.639826
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_163",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1324,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_164",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.330214,
+              2.561769
+            ],
+            [
+              43.330255,
+              2.562513
+            ],
+            [
+              43.329678,
+              2.562545
+            ],
+            [
+              43.329637,
+              2.561801
+            ],
+            [
+              43.330214,
+              2.561769
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_164",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1319,
+        "confidence": 0.68
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_165",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.452272,
+              2.558368
+            ],
+            [
+              43.451978,
+              2.55863
+            ],
+            [
+              43.451663,
+              2.558277
+            ],
+            [
+              43.451957,
+              2.558015
+            ],
+            [
+              43.452272,
+              2.558368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_165",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 961,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_166",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.505299,
+              2.514405
+            ],
+            [
+              43.504731,
+              2.515587
+            ],
+            [
+              43.503542,
+              2.515016
+            ],
+            [
+              43.50411,
+              2.513834
+            ],
+            [
+              43.505299,
+              2.514405
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_166",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 5137,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_167",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.444863,
+              2.612114
+            ],
+            [
+              43.444839,
+              2.61264
+            ],
+            [
+              43.444215,
+              2.612612
+            ],
+            [
+              43.444238,
+              2.612086
+            ],
+            [
+              43.444863,
+              2.612114
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_167",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 1449,
+        "confidence": 0.92
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_168",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.331511,
+              2.550083
+            ],
+            [
+              43.331634,
+              2.551078
+            ],
+            [
+              43.330602,
+              2.551206
+            ],
+            [
+              43.330478,
+              2.550211
+            ],
+            [
+              43.331511,
+              2.550083
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_168",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 4100,
+        "confidence": 0.64
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_169",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.453034,
+              2.533415
+            ],
+            [
+              43.452415,
+              2.534408
+            ],
+            [
+              43.451313,
+              2.533721
+            ],
+            [
+              43.451932,
+              2.532729
+            ],
+            [
+              43.453034,
+              2.533415
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_169",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 8061,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_170",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.508404,
+              2.618214
+            ],
+            [
+              43.508953,
+              2.61872
+            ],
+            [
+              43.508653,
+              2.619046
+            ],
+            [
+              43.508104,
+              2.61854
+            ],
+            [
+              43.508404,
+              2.618214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_170",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1275,
+        "confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_171",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.491028,
+              2.627231
+            ],
+            [
+              43.492,
+              2.627772
+            ],
+            [
+              43.4913,
+              2.629029
+            ],
+            [
+              43.490329,
+              2.628489
+            ],
+            [
+              43.491028,
+              2.627231
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_171",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 6042,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_172",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.375028,
+              2.623125
+            ],
+            [
+              43.374422,
+              2.623543
+            ],
+            [
+              43.373967,
+              2.622885
+            ],
+            [
+              43.374573,
+              2.622467
+            ],
+            [
+              43.375028,
+              2.623125
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_172",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 2422,
+        "confidence": 0.79
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_173",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.304761,
+              2.538839
+            ],
+            [
+              43.304603,
+              2.539628
+            ],
+            [
+              43.303815,
+              2.539469
+            ],
+            [
+              43.303974,
+              2.538681
+            ],
+            [
+              43.304761,
+              2.538839
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_173",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 2448,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_174",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.321195,
+              2.586534
+            ],
+            [
+              43.320446,
+              2.586893
+            ],
+            [
+              43.32002,
+              2.586005
+            ],
+            [
+              43.320768,
+              2.585646
+            ],
+            [
+              43.321195,
+              2.586534
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_174",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 2381,
+        "confidence": 0.72
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_175",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.336166,
+              2.608822
+            ],
+            [
+              43.336198,
+              2.609462
+            ],
+            [
+              43.335447,
+              2.6095
+            ],
+            [
+              43.335414,
+              2.608861
+            ],
+            [
+              43.336166,
+              2.608822
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_175",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2508,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_176",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.367455,
+              2.611215
+            ],
+            [
+              43.367861,
+              2.611579
+            ],
+            [
+              43.367517,
+              2.611962
+            ],
+            [
+              43.367111,
+              2.611598
+            ],
+            [
+              43.367455,
+              2.611215
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_176",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 729,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_177",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.306784,
+              2.642711
+            ],
+            [
+              43.306396,
+              2.642922
+            ],
+            [
+              43.306145,
+              2.642459
+            ],
+            [
+              43.306534,
+              2.642249
+            ],
+            [
+              43.306784,
+              2.642711
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_177",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 825,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_178",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.419866,
+              2.644577
+            ],
+            [
+              43.420463,
+              2.645185
+            ],
+            [
+              43.419628,
+              2.646004
+            ],
+            [
+              43.419032,
+              2.645396
+            ],
+            [
+              43.419866,
+              2.644577
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_178",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3750,
+        "confidence": 0.63
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_179",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.428118,
+              2.667485
+            ],
+            [
+              43.429367,
+              2.668313
+            ],
+            [
+              43.42887,
+              2.669063
+            ],
+            [
+              43.427621,
+              2.668236
+            ],
+            [
+              43.428118,
+              2.667485
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_179",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 4929,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_180",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.280787,
+              2.639175
+            ],
+            [
+              43.281218,
+              2.639208
+            ],
+            [
+              43.281191,
+              2.639561
+            ],
+            [
+              43.28076,
+              2.639529
+            ],
+            [
+              43.280787,
+              2.639175
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_180",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 644,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_181",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.46032,
+              2.501557
+            ],
+            [
+              43.460919,
+              2.501572
+            ],
+            [
+              43.460897,
+              2.502425
+            ],
+            [
+              43.460298,
+              2.50241
+            ],
+            [
+              43.46032,
+              2.501557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_181",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 1727,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_182",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.389629,
+              2.514036
+            ],
+            [
+              43.388849,
+              2.514816
+            ],
+            [
+              43.387954,
+              2.513921
+            ],
+            [
+              43.388734,
+              2.513141
+            ],
+            [
+              43.389629,
+              2.514036
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_182",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6599,
+        "confidence": 0.83
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_183",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.442342,
+              2.50791
+            ],
+            [
+              43.443963,
+              2.508182
+            ],
+            [
+              43.443672,
+              2.509913
+            ],
+            [
+              43.442051,
+              2.509641
+            ],
+            [
+              43.442342,
+              2.50791
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_183",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 6987,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_184",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.389221,
+              2.519232
+            ],
+            [
+              43.390408,
+              2.519407
+            ],
+            [
+              43.390224,
+              2.520654
+            ],
+            [
+              43.389037,
+              2.520478
+            ],
+            [
+              43.389221,
+              2.519232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_184",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 4255,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_185",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.973,
+              1.86581
+            ],
+            [
+              43.972552,
+              1.866806
+            ],
+            [
+              43.971746,
+              1.866443
+            ],
+            [
+              43.972194,
+              1.865447
+            ],
+            [
+              43.973,
+              1.86581
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_185",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3896,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_186",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.854338,
+              1.900837
+            ],
+            [
+              43.85474,
+              1.901248
+            ],
+            [
+              43.854325,
+              1.901654
+            ],
+            [
+              43.853923,
+              1.901243
+            ],
+            [
+              43.854338,
+              1.900837
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_186",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 2013,
+        "confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_187",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.977576,
+              1.925589
+            ],
+            [
+              43.976363,
+              1.925797
+            ],
+            [
+              43.976173,
+              1.924691
+            ],
+            [
+              43.977386,
+              1.924483
+            ],
+            [
+              43.977576,
+              1.925589
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_187",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 3732,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_188",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.812572,
+              1.857494
+            ],
+            [
+              43.812125,
+              1.857955
+            ],
+            [
+              43.811736,
+              1.857577
+            ],
+            [
+              43.812183,
+              1.857117
+            ],
+            [
+              43.812572,
+              1.857494
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_188",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 921,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_189",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.971242,
+              1.97408
+            ],
+            [
+              43.971427,
+              1.974517
+            ],
+            [
+              43.971084,
+              1.974662
+            ],
+            [
+              43.970899,
+              1.974225
+            ],
+            [
+              43.971242,
+              1.97408
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_189",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 682,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_190",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.006629,
+              1.905949
+            ],
+            [
+              44.007388,
+              1.906691
+            ],
+            [
+              44.006788,
+              1.907305
+            ],
+            [
+              44.006029,
+              1.906563
+            ],
+            [
+              44.006629,
+              1.905949
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_190",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 5793,
+        "confidence": 0.7
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_191",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.832073,
+              1.801883
+            ],
+            [
+              43.831357,
+              1.802386
+            ],
+            [
+              43.830679,
+              1.801421
+            ],
+            [
+              43.831395,
+              1.800918
+            ],
+            [
+              43.832073,
+              1.801883
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_191",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 4095,
+        "confidence": 0.9
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_192",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.950329,
+              1.846227
+            ],
+            [
+              43.951204,
+              1.846644
+            ],
+            [
+              43.95067,
+              1.847765
+            ],
+            [
+              43.949795,
+              1.847347
+            ],
+            [
+              43.950329,
+              1.846227
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_192",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 3296,
+        "confidence": 0.61
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_193",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.791152,
+              1.957306
+            ],
+            [
+              43.789336,
+              1.957587
+            ],
+            [
+              43.789114,
+              1.956155
+            ],
+            [
+              43.79093,
+              1.955874
+            ],
+            [
+              43.791152,
+              1.957306
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_193",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 7716,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_194",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.88037,
+              1.820376
+            ],
+            [
+              43.880016,
+              1.820651
+            ],
+            [
+              43.87966,
+              1.820192
+            ],
+            [
+              43.880014,
+              1.819917
+            ],
+            [
+              43.88037,
+              1.820376
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_194",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 1014,
+        "confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_195",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.972015,
+              1.913651
+            ],
+            [
+              43.97173,
+              1.914216
+            ],
+            [
+              43.971065,
+              1.913882
+            ],
+            [
+              43.97135,
+              1.913316
+            ],
+            [
+              43.972015,
+              1.913651
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_195",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2394,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_196",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.811561,
+              1.874149
+            ],
+            [
+              43.8106,
+              1.874693
+            ],
+            [
+              43.809893,
+              1.873444
+            ],
+            [
+              43.810854,
+              1.8729
+            ],
+            [
+              43.811561,
+              1.874149
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_196",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 6556,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_197",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.926058,
+              1.833333
+            ],
+            [
+              43.926694,
+              1.833729
+            ],
+            [
+              43.926315,
+              1.834335
+            ],
+            [
+              43.92568,
+              1.833939
+            ],
+            [
+              43.926058,
+              1.833333
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_197",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1461,
+        "confidence": 0.67
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_198",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.792868,
+              1.922368
+            ],
+            [
+              43.792766,
+              1.923746
+            ],
+            [
+              43.791317,
+              1.923639
+            ],
+            [
+              43.791419,
+              1.922261
+            ],
+            [
+              43.792868,
+              1.922368
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_198",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 7538,
+        "confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_199",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.846772,
+              1.926922
+            ],
+            [
+              43.846487,
+              1.92815
+            ],
+            [
+              43.845521,
+              1.927925
+            ],
+            [
+              43.845807,
+              1.926697
+            ],
+            [
+              43.846772,
+              1.926922
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_199",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 3964,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_200",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.922354,
+              1.913865
+            ],
+            [
+              43.922758,
+              1.913873
+            ],
+            [
+              43.92275,
+              1.914209
+            ],
+            [
+              43.922347,
+              1.9142
+            ],
+            [
+              43.922354,
+              1.913865
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_200",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 812,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_201",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.860927,
+              1.817634
+            ],
+            [
+              43.859372,
+              1.817946
+            ],
+            [
+              43.85903,
+              1.81624
+            ],
+            [
+              43.860585,
+              1.815928
+            ],
+            [
+              43.860927,
+              1.817634
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_201",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 6927,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_202",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.885564,
+              1.985969
+            ],
+            [
+              43.884867,
+              1.987197
+            ],
+            [
+              43.883501,
+              1.986422
+            ],
+            [
+              43.884198,
+              1.985193
+            ],
+            [
+              43.885564,
+              1.985969
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_202",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 7004,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_203",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.808307,
+              1.899247
+            ],
+            [
+              43.807773,
+              1.899774
+            ],
+            [
+              43.807143,
+              1.899136
+            ],
+            [
+              43.807678,
+              1.898609
+            ],
+            [
+              43.808307,
+              1.899247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_203",
+        "source": "OSM",
+        "building": "house",
+        "areaM2": 2353,
+        "confidence": 0.85
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_204",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.919917,
+              1.833635
+            ],
+            [
+              43.920274,
+              1.834868
+            ],
+            [
+              43.918968,
+              1.835245
+            ],
+            [
+              43.918611,
+              1.834012
+            ],
+            [
+              43.919917,
+              1.833635
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_204",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6450,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_205",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.975824,
+              1.907288
+            ],
+            [
+              43.976535,
+              1.907782
+            ],
+            [
+              43.976002,
+              1.908549
+            ],
+            [
+              43.975291,
+              1.908055
+            ],
+            [
+              43.975824,
+              1.907288
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_205",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 4127,
+        "confidence": 0.66
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_206",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.882155,
+              1.871575
+            ],
+            [
+              43.883215,
+              1.871603
+            ],
+            [
+              43.883199,
+              1.872218
+            ],
+            [
+              43.882139,
+              1.872191
+            ],
+            [
+              43.882155,
+              1.871575
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_206",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 2808,
+        "confidence": 0.71
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_207",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.912759,
+              1.875979
+            ],
+            [
+              43.91285,
+              1.876451
+            ],
+            [
+              43.91235,
+              1.876548
+            ],
+            [
+              43.912259,
+              1.876075
+            ],
+            [
+              43.912759,
+              1.875979
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_207",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 1475,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_208",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.979288,
+              1.991574
+            ],
+            [
+              43.979639,
+              1.992474
+            ],
+            [
+              43.977941,
+              1.993136
+            ],
+            [
+              43.97759,
+              1.992236
+            ],
+            [
+              43.979288,
+              1.991574
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_208",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 7169,
+        "confidence": 0.89
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_209",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.882563,
+              1.899588
+            ],
+            [
+              43.881751,
+              1.899619
+            ],
+            [
+              43.881727,
+              1.898981
+            ],
+            [
+              43.882538,
+              1.898949
+            ],
+            [
+              43.882563,
+              1.899588
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_209",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1853,
+        "confidence": 0.73
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_210",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.816223,
+              1.933131
+            ],
+            [
+              43.81523,
+              1.933358
+            ],
+            [
+              43.815013,
+              1.932406
+            ],
+            [
+              43.816006,
+              1.932179
+            ],
+            [
+              43.816223,
+              1.933131
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_210",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 6915,
+        "confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_211",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.92086,
+              1.896612
+            ],
+            [
+              43.920507,
+              1.896651
+            ],
+            [
+              43.920468,
+              1.8963
+            ],
+            [
+              43.920821,
+              1.896261
+            ],
+            [
+              43.92086,
+              1.896612
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_211",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 669,
+        "confidence": 0.94
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_212",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.862123,
+              1.83609
+            ],
+            [
+              43.860785,
+              1.836866
+            ],
+            [
+              43.859947,
+              1.83542
+            ],
+            [
+              43.861286,
+              1.834644
+            ],
+            [
+              43.862123,
+              1.83609
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_212",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 6036,
+        "confidence": 0.65
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_213",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.850866,
+              1.973707
+            ],
+            [
+              43.851013,
+              1.974483
+            ],
+            [
+              43.850289,
+              1.974621
+            ],
+            [
+              43.850141,
+              1.973845
+            ],
+            [
+              43.850866,
+              1.973707
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_213",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 1746,
+        "confidence": 0.8
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_214",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.01659,
+              1.811329
+            ],
+            [
+              44.017014,
+              1.812372
+            ],
+            [
+              44.015804,
+              1.812864
+            ],
+            [
+              44.01538,
+              1.811821
+            ],
+            [
+              44.01659,
+              1.811329
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_214",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 3661,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_215",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              44.016094,
+              1.988232
+            ],
+            [
+              44.015874,
+              1.988469
+            ],
+            [
+              44.015572,
+              1.98819
+            ],
+            [
+              44.015792,
+              1.987953
+            ],
+            [
+              44.016094,
+              1.988232
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_215",
+        "source": "OSM",
+        "building": "commercial",
+        "areaM2": 870,
+        "confidence": 0.69
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_216",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.871684,
+              1.902214
+            ],
+            [
+              43.872454,
+              1.903009
+            ],
+            [
+              43.871158,
+              1.904264
+            ],
+            [
+              43.870388,
+              1.903469
+            ],
+            [
+              43.871684,
+              1.902214
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_216",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 7813,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_217",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.857475,
+              1.906337
+            ],
+            [
+              43.856895,
+              1.906922
+            ],
+            [
+              43.856256,
+              1.906288
+            ],
+            [
+              43.856836,
+              1.905703
+            ],
+            [
+              43.857475,
+              1.906337
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_217",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 1851,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_218",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.921636,
+              1.844147
+            ],
+            [
+              43.920773,
+              1.844476
+            ],
+            [
+              43.920377,
+              1.843437
+            ],
+            [
+              43.92124,
+              1.843108
+            ],
+            [
+              43.921636,
+              1.844147
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_218",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 3511,
+        "confidence": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_219",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.845618,
+              1.970204
+            ],
+            [
+              43.845983,
+              1.970557
+            ],
+            [
+              43.845565,
+              1.970991
+            ],
+            [
+              43.845199,
+              1.970637
+            ],
+            [
+              43.845618,
+              1.970204
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_219",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 801,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_220",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.899232,
+              1.823895
+            ],
+            [
+              43.898309,
+              1.82503
+            ],
+            [
+              43.897246,
+              1.824166
+            ],
+            [
+              43.898169,
+              1.823031
+            ],
+            [
+              43.899232,
+              1.823895
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_220",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5429,
+        "confidence": 0.84
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_221",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.820302,
+              1.859569
+            ],
+            [
+              43.820956,
+              1.860011
+            ],
+            [
+              43.820524,
+              1.86065
+            ],
+            [
+              43.81987,
+              1.860208
+            ],
+            [
+              43.820302,
+              1.859569
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_221",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2992,
+        "confidence": 0.75
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_222",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.991356,
+              1.851835
+            ],
+            [
+              43.991098,
+              1.853253
+            ],
+            [
+              43.989419,
+              1.852948
+            ],
+            [
+              43.989677,
+              1.851531
+            ],
+            [
+              43.991356,
+              1.851835
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_222",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 6642,
+        "confidence": 0.78
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_223",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.961031,
+              1.853105
+            ],
+            [
+              43.961457,
+              1.853173
+            ],
+            [
+              43.961403,
+              1.853508
+            ],
+            [
+              43.960977,
+              1.853439
+            ],
+            [
+              43.961031,
+              1.853105
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_223",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 710,
+        "confidence": 0.62
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_224",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.894128,
+              1.918138
+            ],
+            [
+              43.893542,
+              1.918399
+            ],
+            [
+              43.893283,
+              1.917818
+            ],
+            [
+              43.89387,
+              1.917557
+            ],
+            [
+              43.894128,
+              1.918138
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_224",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 2338,
+        "confidence": 0.93
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_225",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.844092,
+              1.98994
+            ],
+            [
+              43.844998,
+              1.990284
+            ],
+            [
+              43.844657,
+              1.991179
+            ],
+            [
+              43.843752,
+              1.990835
+            ],
+            [
+              43.844092,
+              1.98994
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_225",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2038,
+        "confidence": 0.82
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_226",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.788239,
+              1.952386
+            ],
+            [
+              43.788932,
+              1.95257
+            ],
+            [
+              43.788625,
+              1.953726
+            ],
+            [
+              43.787932,
+              1.953542
+            ],
+            [
+              43.788239,
+              1.952386
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_226",
+        "source": "OSM",
+        "building": "residential",
+        "areaM2": 3276,
+        "confidence": 0.76
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_227",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.898516,
+              1.836812
+            ],
+            [
+              43.897653,
+              1.837441
+            ],
+            [
+              43.896966,
+              1.8365
+            ],
+            [
+              43.897829,
+              1.83587
+            ],
+            [
+              43.898516,
+              1.836812
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_227",
+        "source": "OSM",
+        "building": "clinic",
+        "areaM2": 2953,
+        "confidence": 0.95
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_228",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.874512,
+              1.996247
+            ],
+            [
+              43.873438,
+              1.996493
+            ],
+            [
+              43.873065,
+              1.994864
+            ],
+            [
+              43.874139,
+              1.994618
+            ],
+            [
+              43.874512,
+              1.996247
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_228",
+        "source": "OSM",
+        "building": "yes",
+        "areaM2": 7242,
+        "confidence": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "bld_229",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              43.976219,
+              1.843753
+            ],
+            [
+              43.975221,
+              1.843878
+            ],
+            [
+              43.975091,
+              1.842834
+            ],
+            [
+              43.976089,
+              1.842709
+            ],
+            [
+              43.976219,
+              1.843753
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "bld_229",
+        "source": "OSM",
+        "building": "school",
+        "areaM2": 5342,
+        "confidence": 0.92
+      }
+    }
+  ]
+}

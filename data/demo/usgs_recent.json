@@ -1,0 +1,254 @@
+[
+  {
+    "id": "usgs_0",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.5,
+        28.2
+      ]
+    },
+    "severity": 77,
+    "confidence": 0.95,
+    "observedAt": "2026-06-21T21:02:27.832Z",
+    "properties": {
+      "magnitude": 5.4,
+      "depthKm": 12,
+      "place": "Nepal",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000"
+    }
+  },
+  {
+    "id": "usgs_1",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.4,
+        36.2
+      ]
+    },
+    "severity": 54,
+    "confidence": 0.95,
+    "observedAt": "2026-06-23T09:59:59.155Z",
+    "properties": {
+      "magnitude": 3.8,
+      "depthKm": 8,
+      "place": "California",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7001"
+    }
+  },
+  {
+    "id": "usgs_2",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        124,
+        12
+      ]
+    },
+    "severity": 66,
+    "confidence": 0.95,
+    "observedAt": "2026-06-21T21:40:45.602Z",
+    "properties": {
+      "magnitude": 4.6,
+      "depthKm": 30,
+      "place": "Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7002"
+    }
+  },
+  {
+    "id": "usgs_3",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        118,
+        -2.5
+      ]
+    },
+    "severity": 87,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T01:48:42.209Z",
+    "properties": {
+      "magnitude": 6.1,
+      "depthKm": 20,
+      "place": "Sulawesi",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7003"
+    }
+  },
+  {
+    "id": "usgs_4",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        23.5,
+        38.2
+      ]
+    },
+    "severity": 60,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T00:19:27.145Z",
+    "properties": {
+      "magnitude": 4.2,
+      "depthKm": 15,
+      "place": "Greece",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7004"
+    }
+  },
+  {
+    "id": "usgs_5",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.8,
+        0.4
+      ]
+    },
+    "severity": 63,
+    "confidence": 0.95,
+    "observedAt": "2026-06-21T23:50:23.162Z",
+    "properties": {
+      "magnitude": 4.4,
+      "depthKm": 18,
+      "place": "Kenya/Somalia border",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7005"
+    }
+  },
+  {
+    "id": "usgs_6",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        139.5,
+        35.5
+      ]
+    },
+    "severity": 71,
+    "confidence": 0.95,
+    "observedAt": "2026-06-23T02:55:19.613Z",
+    "properties": {
+      "magnitude": 5,
+      "depthKm": 40,
+      "place": "Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7006"
+    }
+  },
+  {
+    "id": "usgs_7",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71,
+        -33
+      ]
+    },
+    "severity": 70,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T00:59:30.119Z",
+    "properties": {
+      "magnitude": 4.9,
+      "depthKm": 25,
+      "place": "Chile",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7007"
+    }
+  },
+  {
+    "id": "usgs_8",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -99.1,
+        19.4
+      ]
+    },
+    "severity": 50,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T18:30:16.256Z",
+    "properties": {
+      "magnitude": 3.5,
+      "depthKm": 10,
+      "place": "Mexico",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7008"
+    }
+  },
+  {
+    "id": "usgs_9",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -150,
+        60
+      ]
+    },
+    "severity": 59,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T17:11:02.397Z",
+    "properties": {
+      "magnitude": 4.1,
+      "depthKm": 50,
+      "place": "Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7009"
+    }
+  },
+  {
+    "id": "usgs_10",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        14,
+        41
+      ]
+    },
+    "severity": 46,
+    "confidence": 0.95,
+    "observedAt": "2026-06-22T04:42:02.922Z",
+    "properties": {
+      "magnitude": 3.2,
+      "depthKm": 9,
+      "place": "Italy",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7010"
+    }
+  },
+  {
+    "id": "usgs_11",
+    "type": "earthquake",
+    "source": "USGS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        85.3,
+        28.8
+      ]
+    },
+    "severity": 69,
+    "confidence": 0.95,
+    "observedAt": "2026-06-21T16:27:46.637Z",
+    "properties": {
+      "magnitude": 4.8,
+      "depthKm": 14,
+      "place": "Nepal",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7011"
+    }
+  }
+]

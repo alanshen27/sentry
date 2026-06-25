@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "firms_0",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.93465065222699,
+        1.664696326944977
+      ]
+    },
+    "severity": 28,
+    "confidence": 0.59,
+    "observedAt": "2026-06-23T02:35:09.974Z",
+    "properties": {
+      "brightness": 323,
+      "frp": 59.2,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_1",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.875694255367854,
+        1.6677117909304797
+      ]
+    },
+    "severity": 73,
+    "confidence": 0.69,
+    "observedAt": "2026-06-23T07:44:16.304Z",
+    "properties": {
+      "brightness": 303,
+      "frp": 222.1,
+      "satellite": "SNPP",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_2",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.926800909196025,
+        2.970251797605306
+      ]
+    },
+    "severity": 34,
+    "confidence": 0.42,
+    "observedAt": "2026-06-23T04:55:35.295Z",
+    "properties": {
+      "brightness": 307,
+      "frp": 69.4,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_3",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.38175697254483,
+        2.9199766500853004
+      ]
+    },
+    "severity": 55,
+    "confidence": 0.66,
+    "observedAt": "2026-06-22T18:42:23.865Z",
+    "properties": {
+      "brightness": 358,
+      "frp": 152.1,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_4",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.40274136711378,
+        2.662293691281229
+      ]
+    },
+    "severity": 82,
+    "confidence": 0.65,
+    "observedAt": "2026-06-23T06:23:36.436Z",
+    "properties": {
+      "brightness": 316,
+      "frp": 241.5,
+      "satellite": "SNPP",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_5",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.42606898567174,
+        0.13739099530503154
+      ]
+    },
+    "severity": 29,
+    "confidence": 0.61,
+    "observedAt": "2026-06-23T04:53:00.036Z",
+    "properties": {
+      "brightness": 360,
+      "frp": 55.5,
+      "satellite": "NOAA-20",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_6",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.63658644401003,
+        1.1708257463760674
+      ]
+    },
+    "severity": 81,
+    "confidence": 0.93,
+    "observedAt": "2026-06-22T19:27:43.700Z",
+    "properties": {
+      "brightness": 307,
+      "frp": 251.3,
+      "satellite": "SNPP",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_7",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.46853267664555,
+        0.6732923052273692
+      ]
+    },
+    "severity": 55,
+    "confidence": 0.38,
+    "observedAt": "2026-06-22T22:06:58.417Z",
+    "properties": {
+      "brightness": 310,
+      "frp": 173.3,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_8",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.56567687627394,
+        2.8151949630118906
+      ]
+    },
+    "severity": 35,
+    "confidence": 0.38,
+    "observedAt": "2026-06-22T18:36:43.871Z",
+    "properties": {
+      "brightness": 323,
+      "frp": 81,
+      "satellite": "SNPP",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_9",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.00854627697263,
+        1.5916503827087582
+      ]
+    },
+    "severity": 55,
+    "confidence": 0.34,
+    "observedAt": "2026-06-22T18:21:38.232Z",
+    "properties": {
+      "brightness": 307,
+      "frp": 162.4,
+      "satellite": "Aqua",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_10",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.19155628115404,
+        1.1435447280295192
+      ]
+    },
+    "severity": 60,
+    "confidence": 0.91,
+    "observedAt": "2026-06-23T09:49:47.242Z",
+    "properties": {
+      "brightness": 339,
+      "frp": 180.5,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_11",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.90785543026868,
+        -0.049729520175606
+      ]
+    },
+    "severity": 91,
+    "confidence": 0.71,
+    "observedAt": "2026-06-23T02:01:28.852Z",
+    "properties": {
+      "brightness": 334,
+      "frp": 274.6,
+      "satellite": "NOAA-20",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_12",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.274697719258256,
+        3.259767939988524
+      ]
+    },
+    "severity": 36,
+    "confidence": 0.89,
+    "observedAt": "2026-06-23T02:17:49.649Z",
+    "properties": {
+      "brightness": 326,
+      "frp": 98.8,
+      "satellite": "Aqua",
+      "instrument": "VIIRS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_13",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.50715475475881,
+        0.17149642286822203
+      ]
+    },
+    "severity": 34,
+    "confidence": 0.83,
+    "observedAt": "2026-06-22T20:30:09.335Z",
+    "properties": {
+      "brightness": 322,
+      "frp": 74.5,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_14",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.322980257053864,
+        3.037960134167224
+      ]
+    },
+    "severity": 73,
+    "confidence": 0.97,
+    "observedAt": "2026-06-22T23:16:09.501Z",
+    "properties": {
+      "brightness": 346,
+      "frp": 234.2,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_15",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.73643940577749,
+        1.6004137373529375
+      ]
+    },
+    "severity": 92,
+    "confidence": 0.32,
+    "observedAt": "2026-06-23T01:53:42.949Z",
+    "properties": {
+      "brightness": 311,
+      "frp": 277.5,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_16",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.07391552936752,
+        0.024372607562690995
+      ]
+    },
+    "severity": 67,
+    "confidence": 0.68,
+    "observedAt": "2026-06-22T19:08:19.811Z",
+    "properties": {
+      "brightness": 321,
+      "frp": 194.1,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_17",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.31910663826857,
+        3.050552773009986
+      ]
+    },
+    "severity": 89,
+    "confidence": 0.86,
+    "observedAt": "2026-06-23T05:55:06.711Z",
+    "properties": {
+      "brightness": 338,
+      "frp": 266.3,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_18",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.57062430188525,
+        0.6268655438907444
+      ]
+    },
+    "severity": 82,
+    "confidence": 0.86,
+    "observedAt": "2026-06-22T20:41:15.229Z",
+    "properties": {
+      "brightness": 320,
+      "frp": 274.1,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_19",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.569807369285265,
+        3.337091828789562
+      ]
+    },
+    "severity": 87,
+    "confidence": 0.4,
+    "observedAt": "2026-06-22T23:59:55.910Z",
+    "properties": {
+      "brightness": 303,
+      "frp": 277.6,
+      "satellite": "Aqua",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_20",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.63156303365249,
+        1.091861138585955
+      ]
+    },
+    "severity": 57,
+    "confidence": 0.34,
+    "observedAt": "2026-06-23T02:31:34.070Z",
+    "properties": {
+      "brightness": 331,
+      "frp": 166.7,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_21",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.98604774049017,
+        0.2975602778606117
+      ]
+    },
+    "severity": 68,
+    "confidence": 0.89,
+    "observedAt": "2026-06-23T09:33:23.647Z",
+    "properties": {
+      "brightness": 351,
+      "frp": 197.6,
+      "satellite": "Terra",
+      "instrument": "VIIRS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_22",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.61400043957401,
+        2.968796723801643
+      ]
+    },
+    "severity": 53,
+    "confidence": 0.91,
+    "observedAt": "2026-06-23T08:43:15.350Z",
+    "properties": {
+      "brightness": 315,
+      "frp": 169.3,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_23",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.53354068065528,
+        0.7000416926108302
+      ]
+    },
+    "severity": 81,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T00:28:35.358Z",
+    "properties": {
+      "brightness": 322,
+      "frp": 237.4,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_24",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.17124405291397,
+        0.962077893409878
+      ]
+    },
+    "severity": 82,
+    "confidence": 0.98,
+    "observedAt": "2026-06-22T23:36:30.811Z",
+    "properties": {
+      "brightness": 353,
+      "frp": 241,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_25",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.725307468161915,
+        0.6388769696466625
+      ]
+    },
+    "severity": 30,
+    "confidence": 0.71,
+    "observedAt": "2026-06-22T22:45:58.352Z",
+    "properties": {
+      "brightness": 317,
+      "frp": 76.9,
+      "satellite": "SNPP",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_26",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.70361678779591,
+        0.5705316280014814
+      ]
+    },
+    "severity": 96,
+    "confidence": 0.95,
+    "observedAt": "2026-06-23T09:47:51.960Z",
+    "properties": {
+      "brightness": 338,
+      "frp": 319.9,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_27",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.99452929350082,
+        2.917867454793304
+      ]
+    },
+    "severity": 66,
+    "confidence": 0.82,
+    "observedAt": "2026-06-23T07:24:06.338Z",
+    "properties": {
+      "brightness": 342,
+      "frp": 199.5,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_28",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.70318350170273,
+        1.614359419886023
+      ]
+    },
+    "severity": 24,
+    "confidence": 0.59,
+    "observedAt": "2026-06-23T00:21:32.091Z",
+    "properties": {
+      "brightness": 313,
+      "frp": 38.4,
+      "satellite": "Aqua",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_29",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.761148821772075,
+        3.0209780680947005
+      ]
+    },
+    "severity": 54,
+    "confidence": 0.35,
+    "observedAt": "2026-06-23T05:21:38.957Z",
+    "properties": {
+      "brightness": 339,
+      "frp": 144.6,
+      "satellite": "Terra",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_30",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.99222755797673,
+        2.7495903980918226
+      ]
+    },
+    "severity": 96,
+    "confidence": 0.47,
+    "observedAt": "2026-06-22T19:12:03.327Z",
+    "properties": {
+      "brightness": 356,
+      "frp": 319.5,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_31",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.79222175518516,
+        1.870540428813547
+      ]
+    },
+    "severity": 61,
+    "confidence": 0.93,
+    "observedAt": "2026-06-23T03:50:36.317Z",
+    "properties": {
+      "brightness": 313,
+      "frp": 190.3,
+      "satellite": "Aqua",
+      "instrument": "VIIRS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_32",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.255477388319555,
+        0.8700344533659519
+      ]
+    },
+    "severity": 17,
+    "confidence": 0.76,
+    "observedAt": "2026-06-23T07:38:08.640Z",
+    "properties": {
+      "brightness": 317,
+      "frp": 30.7,
+      "satellite": "SNPP",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_33",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        40.15601839555893,
+        0.9729559804312885
+      ]
+    },
+    "severity": 83,
+    "confidence": 0.53,
+    "observedAt": "2026-06-23T03:40:48.517Z",
+    "properties": {
+      "brightness": 318,
+      "frp": 265.7,
+      "satellite": "NOAA-20",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_34",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.266083055292256,
+        -0.10326463682577011
+      ]
+    },
+    "severity": 36,
+    "confidence": 0.86,
+    "observedAt": "2026-06-23T10:07:48.891Z",
+    "properties": {
+      "brightness": 314,
+      "frp": 98.9,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_35",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.4698752068216,
+        3.351899115648121
+      ]
+    },
+    "severity": 44,
+    "confidence": 0.53,
+    "observedAt": "2026-06-22T22:55:40.185Z",
+    "properties": {
+      "brightness": 348,
+      "frp": 122.2,
+      "satellite": "Terra",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_36",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.00534281481523,
+        2.5549239167012274
+      ]
+    },
+    "severity": 66,
+    "confidence": 0.86,
+    "observedAt": "2026-06-23T04:14:44.857Z",
+    "properties": {
+      "brightness": 359,
+      "frp": 203.3,
+      "satellite": "SNPP",
+      "instrument": "VIIRS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_37",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.041796377510764,
+        0.4690203013829887
+      ]
+    },
+    "severity": 54,
+    "confidence": 0.4,
+    "observedAt": "2026-06-23T02:39:10.005Z",
+    "properties": {
+      "brightness": 329,
+      "frp": 143.7,
+      "satellite": "Aqua",
+      "instrument": "MODIS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_38",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.876179678668265,
+        1.8384710398502648
+      ]
+    },
+    "severity": 44,
+    "confidence": 0.81,
+    "observedAt": "2026-06-23T06:45:54.263Z",
+    "properties": {
+      "brightness": 322,
+      "frp": 138.8,
+      "satellite": "SNPP",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_39",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.3058053832734,
+        3.0321492037735878
+      ]
+    },
+    "severity": 100,
+    "confidence": 0.69,
+    "observedAt": "2026-06-22T18:54:05.251Z",
+    "properties": {
+      "brightness": 318,
+      "frp": 317.4,
+      "satellite": "NOAA-20",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_40",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.01036797699053,
+        -0.13815907975658773
+      ]
+    },
+    "severity": 88,
+    "confidence": 0.83,
+    "observedAt": "2026-06-23T10:00:23.814Z",
+    "properties": {
+      "brightness": 338,
+      "frp": 268,
+      "satellite": "SNPP",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_41",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.75104654936586,
+        2.9909978131763637
+      ]
+    },
+    "severity": 50,
+    "confidence": 0.81,
+    "observedAt": "2026-06-22T23:51:31.317Z",
+    "properties": {
+      "brightness": 325,
+      "frp": 152.9,
+      "satellite": "Terra",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_42",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        44.06950992078055,
+        1.5995441322214903
+      ]
+    },
+    "severity": 49,
+    "confidence": 0.55,
+    "observedAt": "2026-06-22T22:19:36.226Z",
+    "properties": {
+      "brightness": 307,
+      "frp": 133.1,
+      "satellite": "NOAA-20",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_43",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.044636613153855,
+        2.820363569166511
+      ]
+    },
+    "severity": 60,
+    "confidence": 0.86,
+    "observedAt": "2026-06-22T19:11:36.248Z",
+    "properties": {
+      "brightness": 339,
+      "frp": 171,
+      "satellite": "Aqua",
+      "instrument": "MODIS",
+      "confidenceRaw": "h"
+    }
+  },
+  {
+    "id": "firms_44",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.339762164396234,
+        -0.08690923815593124
+      ]
+    },
+    "severity": 58,
+    "confidence": 0.54,
+    "observedAt": "2026-06-23T00:48:32.257Z",
+    "properties": {
+      "brightness": 304,
+      "frp": 186.7,
+      "satellite": "Terra",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_45",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.44826628661249,
+        2.8908324855379757
+      ]
+    },
+    "severity": 100,
+    "confidence": 0.42,
+    "observedAt": "2026-06-23T03:35:30.272Z",
+    "properties": {
+      "brightness": 335,
+      "frp": 312.1,
+      "satellite": "NOAA-20",
+      "instrument": "VIIRS",
+      "confidenceRaw": "l"
+    }
+  },
+  {
+    "id": "firms_46",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        41.42031236805488,
+        0.36544353188946843
+      ]
+    },
+    "severity": 47,
+    "confidence": 0.71,
+    "observedAt": "2026-06-23T10:08:27.736Z",
+    "properties": {
+      "brightness": 324,
+      "frp": 132.2,
+      "satellite": "Terra",
+      "instrument": "VIIRS",
+      "confidenceRaw": "n"
+    }
+  },
+  {
+    "id": "firms_47",
+    "type": "wildfire",
+    "source": "NASA_FIRMS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.828551818826234,
+        2.526982275303453
+      ]
+    },
+    "severity": 75,
+    "confidence": 0.75,
+    "observedAt": "2026-06-23T04:28:40.332Z",
+    "properties": {
+      "brightness": 309,
+      "frp": 223.6,
+      "satellite": "Aqua",
+      "instrument": "MODIS",
+      "confidenceRaw": "n"
+    }
+  }
+]

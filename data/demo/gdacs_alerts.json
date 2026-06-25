@@ -1,0 +1,162 @@
+[
+  {
+    "id": "gdacs_0",
+    "type": "cyclone",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        124.2,
+        12.5
+      ]
+    },
+    "severity": 78,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:59:27.440Z",
+    "properties": {
+      "title": "Tropical Cyclone NALGAE",
+      "alertLevel": "Orange",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1000"
+    }
+  },
+  {
+    "id": "gdacs_1",
+    "type": "flood",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        42.6,
+        1.8
+      ]
+    },
+    "severity": 62,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:37:00.769Z",
+    "properties": {
+      "title": "Flood Alert - Juba River",
+      "alertLevel": "Green",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1001"
+    }
+  },
+  {
+    "id": "gdacs_2",
+    "type": "drought",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        43.5,
+        2.5
+      ]
+    },
+    "severity": 71,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:35:33.329Z",
+    "properties": {
+      "title": "Drought Alert - Horn of Africa",
+      "alertLevel": "Orange",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1002"
+    }
+  },
+  {
+    "id": "gdacs_3",
+    "type": "earthquake",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        84.5,
+        28.2
+      ]
+    },
+    "severity": 48,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T12:02:14.445Z",
+    "properties": {
+      "title": "M5.4 Nepal",
+      "alertLevel": "Green",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1003"
+    }
+  },
+  {
+    "id": "gdacs_4",
+    "type": "flood",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        123.5,
+        11
+      ]
+    },
+    "severity": 66,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:40:33.788Z",
+    "properties": {
+      "title": "Flood Alert - Visayas",
+      "alertLevel": "Orange",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1004"
+    }
+  },
+  {
+    "id": "gdacs_5",
+    "type": "volcano",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        123.7,
+        13.3
+      ]
+    },
+    "severity": 55,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T12:01:14.258Z",
+    "properties": {
+      "title": "Volcanic Activity - Mayon",
+      "alertLevel": "Green",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1005"
+    }
+  },
+  {
+    "id": "gdacs_6",
+    "type": "severe_weather",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        88,
+        15
+      ]
+    },
+    "severity": 58,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:19:33.143Z",
+    "properties": {
+      "title": "Severe Weather - Bay of Bengal",
+      "alertLevel": "Green",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1006"
+    }
+  },
+  {
+    "id": "gdacs_7",
+    "type": "drought",
+    "source": "GDACS",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        38.5,
+        15.5
+      ]
+    },
+    "severity": 60,
+    "confidence": 0.8,
+    "observedAt": "2026-06-23T11:57:18.026Z",
+    "properties": {
+      "title": "Drought Stress - Eritrea",
+      "alertLevel": "Orange",
+      "url": "https://www.gdacs.org/report.aspx?eventid=1007"
+    }
+  }
+]

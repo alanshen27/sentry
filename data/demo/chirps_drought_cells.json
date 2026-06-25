@@ -1,0 +1,5462 @@
+[
+  {
+    "cellId": "chirps_-1.5_40.5",
+    "hazard": "drought",
+    "riskScore": 56,
+    "anomalyPercent": -9,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:36:01.664Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            -1.5
+          ],
+          [
+            41,
+            -1.5
+          ],
+          [
+            41,
+            -1
+          ],
+          [
+            40.5,
+            -1
+          ],
+          [
+            40.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_41.0",
+    "hazard": "drought",
+    "riskScore": 82,
+    "anomalyPercent": -53,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:14:16.682Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            -1.5
+          ],
+          [
+            41.5,
+            -1.5
+          ],
+          [
+            41.5,
+            -1
+          ],
+          [
+            41,
+            -1
+          ],
+          [
+            41,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_41.5",
+    "hazard": "drought",
+    "riskScore": 50,
+    "anomalyPercent": -1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:53:39.130Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            -1.5
+          ],
+          [
+            42,
+            -1.5
+          ],
+          [
+            42,
+            -1
+          ],
+          [
+            41.5,
+            -1
+          ],
+          [
+            41.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_42.0",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -25,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:15:10.220Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            -1.5
+          ],
+          [
+            42.5,
+            -1.5
+          ],
+          [
+            42.5,
+            -1
+          ],
+          [
+            42,
+            -1
+          ],
+          [
+            42,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_42.5",
+    "hazard": "drought",
+    "riskScore": 50,
+    "anomalyPercent": -1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:55:17.621Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            -1.5
+          ],
+          [
+            43,
+            -1.5
+          ],
+          [
+            43,
+            -1
+          ],
+          [
+            42.5,
+            -1
+          ],
+          [
+            42.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_43.0",
+    "hazard": "drought",
+    "riskScore": 73,
+    "anomalyPercent": -39,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:42:39.275Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            -1.5
+          ],
+          [
+            43.5,
+            -1.5
+          ],
+          [
+            43.5,
+            -1
+          ],
+          [
+            43,
+            -1
+          ],
+          [
+            43,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_43.5",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -25,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:55:53.727Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            -1.5
+          ],
+          [
+            44,
+            -1.5
+          ],
+          [
+            44,
+            -1
+          ],
+          [
+            43.5,
+            -1
+          ],
+          [
+            43.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_44.0",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -64,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:01:03.974Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            -1.5
+          ],
+          [
+            44.5,
+            -1.5
+          ],
+          [
+            44.5,
+            -1
+          ],
+          [
+            44,
+            -1
+          ],
+          [
+            44,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_44.5",
+    "hazard": "drought",
+    "riskScore": 52,
+    "anomalyPercent": -3,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:34:04.832Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            -1.5
+          ],
+          [
+            45,
+            -1.5
+          ],
+          [
+            45,
+            -1
+          ],
+          [
+            44.5,
+            -1
+          ],
+          [
+            44.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_45.0",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -25,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:25:18.800Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            -1.5
+          ],
+          [
+            45.5,
+            -1.5
+          ],
+          [
+            45.5,
+            -1
+          ],
+          [
+            45,
+            -1
+          ],
+          [
+            45,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_45.5",
+    "hazard": "drought",
+    "riskScore": 47,
+    "anomalyPercent": 4,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:20:47.152Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            -1.5
+          ],
+          [
+            46,
+            -1.5
+          ],
+          [
+            46,
+            -1
+          ],
+          [
+            45.5,
+            -1
+          ],
+          [
+            45.5,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.5_46.0",
+    "hazard": "drought",
+    "riskScore": 87,
+    "anomalyPercent": -62,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:28:46.685Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            -1.5
+          ],
+          [
+            46.5,
+            -1.5
+          ],
+          [
+            46.5,
+            -1
+          ],
+          [
+            46,
+            -1
+          ],
+          [
+            46,
+            -1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_40.5",
+    "hazard": "drought",
+    "riskScore": 77,
+    "anomalyPercent": -45,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:33:23.082Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            -1
+          ],
+          [
+            41,
+            -1
+          ],
+          [
+            41,
+            -0.5
+          ],
+          [
+            40.5,
+            -0.5
+          ],
+          [
+            40.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_41.0",
+    "hazard": "drought",
+    "riskScore": 67,
+    "anomalyPercent": -29,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:18:44.285Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            -1
+          ],
+          [
+            41.5,
+            -1
+          ],
+          [
+            41.5,
+            -0.5
+          ],
+          [
+            41,
+            -0.5
+          ],
+          [
+            41,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_41.5",
+    "hazard": "drought",
+    "riskScore": 54,
+    "anomalyPercent": -7,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:00:36.571Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            -1
+          ],
+          [
+            42,
+            -1
+          ],
+          [
+            42,
+            -0.5
+          ],
+          [
+            41.5,
+            -0.5
+          ],
+          [
+            41.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_42.0",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -63,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:57:07.165Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            -1
+          ],
+          [
+            42.5,
+            -1
+          ],
+          [
+            42.5,
+            -0.5
+          ],
+          [
+            42,
+            -0.5
+          ],
+          [
+            42,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_42.5",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -63,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:48:35.316Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            -1
+          ],
+          [
+            43,
+            -1
+          ],
+          [
+            43,
+            -0.5
+          ],
+          [
+            42.5,
+            -0.5
+          ],
+          [
+            42.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_43.0",
+    "hazard": "drought",
+    "riskScore": 72,
+    "anomalyPercent": -36,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:49:23.661Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            -1
+          ],
+          [
+            43.5,
+            -1
+          ],
+          [
+            43.5,
+            -0.5
+          ],
+          [
+            43,
+            -0.5
+          ],
+          [
+            43,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_43.5",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:03:18.482Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            -1
+          ],
+          [
+            44,
+            -1
+          ],
+          [
+            44,
+            -0.5
+          ],
+          [
+            43.5,
+            -0.5
+          ],
+          [
+            43.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_44.0",
+    "hazard": "drought",
+    "riskScore": 60,
+    "anomalyPercent": -17,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:09:26.171Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            -1
+          ],
+          [
+            44.5,
+            -1
+          ],
+          [
+            44.5,
+            -0.5
+          ],
+          [
+            44,
+            -0.5
+          ],
+          [
+            44,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_44.5",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:09:48.734Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            -1
+          ],
+          [
+            45,
+            -1
+          ],
+          [
+            45,
+            -0.5
+          ],
+          [
+            44.5,
+            -0.5
+          ],
+          [
+            44.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_45.0",
+    "hazard": "drought",
+    "riskScore": 56,
+    "anomalyPercent": -9,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:53:08.602Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            -1
+          ],
+          [
+            45.5,
+            -1
+          ],
+          [
+            45.5,
+            -0.5
+          ],
+          [
+            45,
+            -0.5
+          ],
+          [
+            45,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_45.5",
+    "hazard": "drought",
+    "riskScore": 57,
+    "anomalyPercent": -11,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:27.307Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            -1
+          ],
+          [
+            46,
+            -1
+          ],
+          [
+            46,
+            -0.5
+          ],
+          [
+            45.5,
+            -0.5
+          ],
+          [
+            45.5,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-1.0_46.0",
+    "hazard": "drought",
+    "riskScore": 68,
+    "anomalyPercent": -29,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:18:38.755Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            -1
+          ],
+          [
+            46.5,
+            -1
+          ],
+          [
+            46.5,
+            -0.5
+          ],
+          [
+            46,
+            -0.5
+          ],
+          [
+            46,
+            -1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_40.5",
+    "hazard": "drought",
+    "riskScore": 52,
+    "anomalyPercent": -4,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:33:30.879Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            -0.5
+          ],
+          [
+            41,
+            -0.5
+          ],
+          [
+            41,
+            0
+          ],
+          [
+            40.5,
+            0
+          ],
+          [
+            40.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_41.0",
+    "hazard": "drought",
+    "riskScore": 86,
+    "anomalyPercent": -60,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:35:54.371Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            -0.5
+          ],
+          [
+            41.5,
+            -0.5
+          ],
+          [
+            41.5,
+            0
+          ],
+          [
+            41,
+            0
+          ],
+          [
+            41,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_41.5",
+    "hazard": "drought",
+    "riskScore": 86,
+    "anomalyPercent": -59,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:24:28.987Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            -0.5
+          ],
+          [
+            42,
+            -0.5
+          ],
+          [
+            42,
+            0
+          ],
+          [
+            41.5,
+            0
+          ],
+          [
+            41.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_42.0",
+    "hazard": "drought",
+    "riskScore": 56,
+    "anomalyPercent": -10,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:53:31.604Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            -0.5
+          ],
+          [
+            42.5,
+            -0.5
+          ],
+          [
+            42.5,
+            0
+          ],
+          [
+            42,
+            0
+          ],
+          [
+            42,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_42.5",
+    "hazard": "drought",
+    "riskScore": 79,
+    "anomalyPercent": -48,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:25:20.738Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            -0.5
+          ],
+          [
+            43,
+            -0.5
+          ],
+          [
+            43,
+            0
+          ],
+          [
+            42.5,
+            0
+          ],
+          [
+            42.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_43.0",
+    "hazard": "drought",
+    "riskScore": 66,
+    "anomalyPercent": -27,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:35:34.665Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            -0.5
+          ],
+          [
+            43.5,
+            -0.5
+          ],
+          [
+            43.5,
+            0
+          ],
+          [
+            43,
+            0
+          ],
+          [
+            43,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_43.5",
+    "hazard": "drought",
+    "riskScore": 61,
+    "anomalyPercent": -19,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:22:09.576Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            -0.5
+          ],
+          [
+            44,
+            -0.5
+          ],
+          [
+            44,
+            0
+          ],
+          [
+            43.5,
+            0
+          ],
+          [
+            43.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_44.0",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:06:15.385Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            -0.5
+          ],
+          [
+            44.5,
+            -0.5
+          ],
+          [
+            44.5,
+            0
+          ],
+          [
+            44,
+            0
+          ],
+          [
+            44,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_44.5",
+    "hazard": "drought",
+    "riskScore": 67,
+    "anomalyPercent": -29,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:14:14.831Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            -0.5
+          ],
+          [
+            45,
+            -0.5
+          ],
+          [
+            45,
+            0
+          ],
+          [
+            44.5,
+            0
+          ],
+          [
+            44.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_45.0",
+    "hazard": "drought",
+    "riskScore": 89,
+    "anomalyPercent": -65,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:05:11.455Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            -0.5
+          ],
+          [
+            45.5,
+            -0.5
+          ],
+          [
+            45.5,
+            0
+          ],
+          [
+            45,
+            0
+          ],
+          [
+            45,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_45.5",
+    "hazard": "drought",
+    "riskScore": 72,
+    "anomalyPercent": -37,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:39:18.832Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            -0.5
+          ],
+          [
+            46,
+            -0.5
+          ],
+          [
+            46,
+            0
+          ],
+          [
+            45.5,
+            0
+          ],
+          [
+            45.5,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_-0.5_46.0",
+    "hazard": "drought",
+    "riskScore": 52,
+    "anomalyPercent": -3,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:01:12.086Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            -0.5
+          ],
+          [
+            46.5,
+            -0.5
+          ],
+          [
+            46.5,
+            0
+          ],
+          [
+            46,
+            0
+          ],
+          [
+            46,
+            -0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_40.5",
+    "hazard": "drought",
+    "riskScore": 86,
+    "anomalyPercent": -60,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:17:48.304Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            0
+          ],
+          [
+            41,
+            0
+          ],
+          [
+            41,
+            0.5
+          ],
+          [
+            40.5,
+            0.5
+          ],
+          [
+            40.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_41.0",
+    "hazard": "drought",
+    "riskScore": 50,
+    "anomalyPercent": 0,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:37:19.836Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            0
+          ],
+          [
+            41.5,
+            0
+          ],
+          [
+            41.5,
+            0.5
+          ],
+          [
+            41,
+            0.5
+          ],
+          [
+            41,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_41.5",
+    "hazard": "drought",
+    "riskScore": 51,
+    "anomalyPercent": -1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:41:48.815Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            0
+          ],
+          [
+            42,
+            0
+          ],
+          [
+            42,
+            0.5
+          ],
+          [
+            41.5,
+            0.5
+          ],
+          [
+            41.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_42.0",
+    "hazard": "drought",
+    "riskScore": 75,
+    "anomalyPercent": -42,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:24:57.365Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            0
+          ],
+          [
+            42.5,
+            0
+          ],
+          [
+            42.5,
+            0.5
+          ],
+          [
+            42,
+            0.5
+          ],
+          [
+            42,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_42.5",
+    "hazard": "drought",
+    "riskScore": 63,
+    "anomalyPercent": -22,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:38:51.027Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            0
+          ],
+          [
+            43,
+            0
+          ],
+          [
+            43,
+            0.5
+          ],
+          [
+            42.5,
+            0.5
+          ],
+          [
+            42.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_43.0",
+    "hazard": "drought",
+    "riskScore": 80,
+    "anomalyPercent": -50,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:29:47.862Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            0
+          ],
+          [
+            43.5,
+            0
+          ],
+          [
+            43.5,
+            0.5
+          ],
+          [
+            43,
+            0.5
+          ],
+          [
+            43,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_43.5",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -63,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:05:47.479Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            0
+          ],
+          [
+            44,
+            0
+          ],
+          [
+            44,
+            0.5
+          ],
+          [
+            43.5,
+            0.5
+          ],
+          [
+            43.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_44.0",
+    "hazard": "drought",
+    "riskScore": 72,
+    "anomalyPercent": -36,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:17:37.889Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            0
+          ],
+          [
+            44.5,
+            0
+          ],
+          [
+            44.5,
+            0.5
+          ],
+          [
+            44,
+            0.5
+          ],
+          [
+            44,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_44.5",
+    "hazard": "drought",
+    "riskScore": 73,
+    "anomalyPercent": -38,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:18.684Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            0
+          ],
+          [
+            45,
+            0
+          ],
+          [
+            45,
+            0.5
+          ],
+          [
+            44.5,
+            0.5
+          ],
+          [
+            44.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_45.0",
+    "hazard": "drought",
+    "riskScore": 70,
+    "anomalyPercent": -33,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:52:31.399Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            0
+          ],
+          [
+            45.5,
+            0
+          ],
+          [
+            45.5,
+            0.5
+          ],
+          [
+            45,
+            0.5
+          ],
+          [
+            45,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_45.5",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:06:07.262Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            0
+          ],
+          [
+            46,
+            0
+          ],
+          [
+            46,
+            0.5
+          ],
+          [
+            45.5,
+            0.5
+          ],
+          [
+            45.5,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.0_46.0",
+    "hazard": "drought",
+    "riskScore": 74,
+    "anomalyPercent": -39,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:05:23.679Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            0
+          ],
+          [
+            46.5,
+            0
+          ],
+          [
+            46.5,
+            0.5
+          ],
+          [
+            46,
+            0.5
+          ],
+          [
+            46,
+            0
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_40.5",
+    "hazard": "drought",
+    "riskScore": 70,
+    "anomalyPercent": -34,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:09:18.870Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            0.5
+          ],
+          [
+            41,
+            0.5
+          ],
+          [
+            41,
+            1
+          ],
+          [
+            40.5,
+            1
+          ],
+          [
+            40.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_41.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:35:43.962Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            0.5
+          ],
+          [
+            41.5,
+            0.5
+          ],
+          [
+            41.5,
+            1
+          ],
+          [
+            41,
+            1
+          ],
+          [
+            41,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_41.5",
+    "hazard": "drought",
+    "riskScore": 84,
+    "anomalyPercent": -57,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:16:08.686Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            0.5
+          ],
+          [
+            42,
+            0.5
+          ],
+          [
+            42,
+            1
+          ],
+          [
+            41.5,
+            1
+          ],
+          [
+            41.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_42.0",
+    "hazard": "drought",
+    "riskScore": 82,
+    "anomalyPercent": -54,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:34:15.456Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            0.5
+          ],
+          [
+            42.5,
+            0.5
+          ],
+          [
+            42.5,
+            1
+          ],
+          [
+            42,
+            1
+          ],
+          [
+            42,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_42.5",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -63,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:17:32.181Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            0.5
+          ],
+          [
+            43,
+            0.5
+          ],
+          [
+            43,
+            1
+          ],
+          [
+            42.5,
+            1
+          ],
+          [
+            42.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_43.0",
+    "hazard": "drought",
+    "riskScore": 64,
+    "anomalyPercent": -24,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:39:21.560Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            0.5
+          ],
+          [
+            43.5,
+            0.5
+          ],
+          [
+            43.5,
+            1
+          ],
+          [
+            43,
+            1
+          ],
+          [
+            43,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_43.5",
+    "hazard": "drought",
+    "riskScore": 73,
+    "anomalyPercent": -38,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:18:38.946Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            0.5
+          ],
+          [
+            44,
+            0.5
+          ],
+          [
+            44,
+            1
+          ],
+          [
+            43.5,
+            1
+          ],
+          [
+            43.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_44.0",
+    "hazard": "drought",
+    "riskScore": 72,
+    "anomalyPercent": -36,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:25:06.982Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            0.5
+          ],
+          [
+            44.5,
+            0.5
+          ],
+          [
+            44.5,
+            1
+          ],
+          [
+            44,
+            1
+          ],
+          [
+            44,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_44.5",
+    "hazard": "drought",
+    "riskScore": 50,
+    "anomalyPercent": 1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:52:48.311Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            0.5
+          ],
+          [
+            45,
+            0.5
+          ],
+          [
+            45,
+            1
+          ],
+          [
+            44.5,
+            1
+          ],
+          [
+            44.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_45.0",
+    "hazard": "drought",
+    "riskScore": 54,
+    "anomalyPercent": -7,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:23:42.545Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            0.5
+          ],
+          [
+            45.5,
+            0.5
+          ],
+          [
+            45.5,
+            1
+          ],
+          [
+            45,
+            1
+          ],
+          [
+            45,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_45.5",
+    "hazard": "drought",
+    "riskScore": 83,
+    "anomalyPercent": -56,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:08:05.508Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            0.5
+          ],
+          [
+            46,
+            0.5
+          ],
+          [
+            46,
+            1
+          ],
+          [
+            45.5,
+            1
+          ],
+          [
+            45.5,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_0.5_46.0",
+    "hazard": "drought",
+    "riskScore": 49,
+    "anomalyPercent": 1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:30:02.405Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            0.5
+          ],
+          [
+            46.5,
+            0.5
+          ],
+          [
+            46.5,
+            1
+          ],
+          [
+            46,
+            1
+          ],
+          [
+            46,
+            0.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_40.5",
+    "hazard": "drought",
+    "riskScore": 87,
+    "anomalyPercent": -62,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:26:57.143Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            1
+          ],
+          [
+            41,
+            1
+          ],
+          [
+            41,
+            1.5
+          ],
+          [
+            40.5,
+            1.5
+          ],
+          [
+            40.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_41.0",
+    "hazard": "drought",
+    "riskScore": 78,
+    "anomalyPercent": -46,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:21:22.447Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            1
+          ],
+          [
+            41.5,
+            1
+          ],
+          [
+            41.5,
+            1.5
+          ],
+          [
+            41,
+            1.5
+          ],
+          [
+            41,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_41.5",
+    "hazard": "drought",
+    "riskScore": 56,
+    "anomalyPercent": -10,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:04:04.698Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            1
+          ],
+          [
+            42,
+            1
+          ],
+          [
+            42,
+            1.5
+          ],
+          [
+            41.5,
+            1.5
+          ],
+          [
+            41.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_42.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -6,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:49:48.601Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            1
+          ],
+          [
+            42.5,
+            1
+          ],
+          [
+            42.5,
+            1.5
+          ],
+          [
+            42,
+            1.5
+          ],
+          [
+            42,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_42.5",
+    "hazard": "drought",
+    "riskScore": 57,
+    "anomalyPercent": -11,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:52:54.846Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            1
+          ],
+          [
+            43,
+            1
+          ],
+          [
+            43,
+            1.5
+          ],
+          [
+            42.5,
+            1.5
+          ],
+          [
+            42.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_43.0",
+    "hazard": "drought",
+    "riskScore": 78,
+    "anomalyPercent": -47,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:50:23.826Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            1
+          ],
+          [
+            43.5,
+            1
+          ],
+          [
+            43.5,
+            1.5
+          ],
+          [
+            43,
+            1.5
+          ],
+          [
+            43,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_43.5",
+    "hazard": "drought",
+    "riskScore": 51,
+    "anomalyPercent": -1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:16:05.299Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            1
+          ],
+          [
+            44,
+            1
+          ],
+          [
+            44,
+            1.5
+          ],
+          [
+            43.5,
+            1.5
+          ],
+          [
+            43.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_44.0",
+    "hazard": "drought",
+    "riskScore": 84,
+    "anomalyPercent": -57,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:12:42.522Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            1
+          ],
+          [
+            44.5,
+            1
+          ],
+          [
+            44.5,
+            1.5
+          ],
+          [
+            44,
+            1.5
+          ],
+          [
+            44,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_44.5",
+    "hazard": "drought",
+    "riskScore": 58,
+    "anomalyPercent": -13,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:40:04.965Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            1
+          ],
+          [
+            45,
+            1
+          ],
+          [
+            45,
+            1.5
+          ],
+          [
+            44.5,
+            1.5
+          ],
+          [
+            44.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_45.0",
+    "hazard": "drought",
+    "riskScore": 69,
+    "anomalyPercent": -31,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:08:41.109Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            1
+          ],
+          [
+            45.5,
+            1
+          ],
+          [
+            45.5,
+            1.5
+          ],
+          [
+            45,
+            1.5
+          ],
+          [
+            45,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_45.5",
+    "hazard": "drought",
+    "riskScore": 86,
+    "anomalyPercent": -60,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:19:27.143Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            1
+          ],
+          [
+            46,
+            1
+          ],
+          [
+            46,
+            1.5
+          ],
+          [
+            45.5,
+            1.5
+          ],
+          [
+            45.5,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.0_46.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:34:33.534Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            1
+          ],
+          [
+            46.5,
+            1
+          ],
+          [
+            46.5,
+            1.5
+          ],
+          [
+            46,
+            1.5
+          ],
+          [
+            46,
+            1
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_40.5",
+    "hazard": "drought",
+    "riskScore": 71,
+    "anomalyPercent": -36,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:20:54.518Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            1.5
+          ],
+          [
+            41,
+            1.5
+          ],
+          [
+            41,
+            2
+          ],
+          [
+            40.5,
+            2
+          ],
+          [
+            40.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_41.0",
+    "hazard": "drought",
+    "riskScore": 82,
+    "anomalyPercent": -54,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:29:40.440Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            1.5
+          ],
+          [
+            41.5,
+            1.5
+          ],
+          [
+            41.5,
+            2
+          ],
+          [
+            41,
+            2
+          ],
+          [
+            41,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_41.5",
+    "hazard": "drought",
+    "riskScore": 58,
+    "anomalyPercent": -13,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:02:34.707Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            1.5
+          ],
+          [
+            42,
+            1.5
+          ],
+          [
+            42,
+            2
+          ],
+          [
+            41.5,
+            2
+          ],
+          [
+            41.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_42.0",
+    "hazard": "drought",
+    "riskScore": 85,
+    "anomalyPercent": -59,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:00:00.767Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            1.5
+          ],
+          [
+            42.5,
+            1.5
+          ],
+          [
+            42.5,
+            2
+          ],
+          [
+            42,
+            2
+          ],
+          [
+            42,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_42.5",
+    "hazard": "drought",
+    "riskScore": 55,
+    "anomalyPercent": -9,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:08:45.089Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            1.5
+          ],
+          [
+            43,
+            1.5
+          ],
+          [
+            43,
+            2
+          ],
+          [
+            42.5,
+            2
+          ],
+          [
+            42.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_43.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:39:14.518Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            1.5
+          ],
+          [
+            43.5,
+            1.5
+          ],
+          [
+            43.5,
+            2
+          ],
+          [
+            43,
+            2
+          ],
+          [
+            43,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_43.5",
+    "hazard": "drought",
+    "riskScore": 74,
+    "anomalyPercent": -39,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:25:25.703Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            1.5
+          ],
+          [
+            44,
+            1.5
+          ],
+          [
+            44,
+            2
+          ],
+          [
+            43.5,
+            2
+          ],
+          [
+            43.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_44.0",
+    "hazard": "drought",
+    "riskScore": 88,
+    "anomalyPercent": -64,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:25:05.453Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            1.5
+          ],
+          [
+            44.5,
+            1.5
+          ],
+          [
+            44.5,
+            2
+          ],
+          [
+            44,
+            2
+          ],
+          [
+            44,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_44.5",
+    "hazard": "drought",
+    "riskScore": 80,
+    "anomalyPercent": -49,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:46:58.920Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            1.5
+          ],
+          [
+            45,
+            1.5
+          ],
+          [
+            45,
+            2
+          ],
+          [
+            44.5,
+            2
+          ],
+          [
+            44.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_45.0",
+    "hazard": "drought",
+    "riskScore": 51,
+    "anomalyPercent": -2,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:52.445Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            1.5
+          ],
+          [
+            45.5,
+            1.5
+          ],
+          [
+            45.5,
+            2
+          ],
+          [
+            45,
+            2
+          ],
+          [
+            45,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_45.5",
+    "hazard": "drought",
+    "riskScore": 73,
+    "anomalyPercent": -38,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:49:14.677Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            1.5
+          ],
+          [
+            46,
+            1.5
+          ],
+          [
+            46,
+            2
+          ],
+          [
+            45.5,
+            2
+          ],
+          [
+            45.5,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_1.5_46.0",
+    "hazard": "drought",
+    "riskScore": 48,
+    "anomalyPercent": 4,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:00:58.272Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            1.5
+          ],
+          [
+            46.5,
+            1.5
+          ],
+          [
+            46.5,
+            2
+          ],
+          [
+            46,
+            2
+          ],
+          [
+            46,
+            1.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_40.5",
+    "hazard": "drought",
+    "riskScore": 79,
+    "anomalyPercent": -49,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:29:20.005Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            2
+          ],
+          [
+            41,
+            2
+          ],
+          [
+            41,
+            2.5
+          ],
+          [
+            40.5,
+            2.5
+          ],
+          [
+            40.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_41.0",
+    "hazard": "drought",
+    "riskScore": 80,
+    "anomalyPercent": -51,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:40:04.567Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            2
+          ],
+          [
+            41.5,
+            2
+          ],
+          [
+            41.5,
+            2.5
+          ],
+          [
+            41,
+            2.5
+          ],
+          [
+            41,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_41.5",
+    "hazard": "drought",
+    "riskScore": 74,
+    "anomalyPercent": -40,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:17:31.599Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            2
+          ],
+          [
+            42,
+            2
+          ],
+          [
+            42,
+            2.5
+          ],
+          [
+            41.5,
+            2.5
+          ],
+          [
+            41.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_42.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:19:01.699Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            2
+          ],
+          [
+            42.5,
+            2
+          ],
+          [
+            42.5,
+            2.5
+          ],
+          [
+            42,
+            2.5
+          ],
+          [
+            42,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_42.5",
+    "hazard": "drought",
+    "riskScore": 71,
+    "anomalyPercent": -35,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:11:30.187Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            2
+          ],
+          [
+            43,
+            2
+          ],
+          [
+            43,
+            2.5
+          ],
+          [
+            42.5,
+            2.5
+          ],
+          [
+            42.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_43.0",
+    "hazard": "drought",
+    "riskScore": 54,
+    "anomalyPercent": -6,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:55:02.320Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            2
+          ],
+          [
+            43.5,
+            2
+          ],
+          [
+            43.5,
+            2.5
+          ],
+          [
+            43,
+            2.5
+          ],
+          [
+            43,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_43.5",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:08:15.454Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            2
+          ],
+          [
+            44,
+            2
+          ],
+          [
+            44,
+            2.5
+          ],
+          [
+            43.5,
+            2.5
+          ],
+          [
+            43.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_44.0",
+    "hazard": "drought",
+    "riskScore": 83,
+    "anomalyPercent": -56,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:57:07.341Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            2
+          ],
+          [
+            44.5,
+            2
+          ],
+          [
+            44.5,
+            2.5
+          ],
+          [
+            44,
+            2.5
+          ],
+          [
+            44,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_44.5",
+    "hazard": "drought",
+    "riskScore": 67,
+    "anomalyPercent": -28,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:54:00.248Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            2
+          ],
+          [
+            45,
+            2
+          ],
+          [
+            45,
+            2.5
+          ],
+          [
+            44.5,
+            2.5
+          ],
+          [
+            44.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_45.0",
+    "hazard": "drought",
+    "riskScore": 87,
+    "anomalyPercent": -62,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:48:33.071Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            2
+          ],
+          [
+            45.5,
+            2
+          ],
+          [
+            45.5,
+            2.5
+          ],
+          [
+            45,
+            2.5
+          ],
+          [
+            45,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_45.5",
+    "hazard": "drought",
+    "riskScore": 75,
+    "anomalyPercent": -42,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:37:22.845Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            2
+          ],
+          [
+            46,
+            2
+          ],
+          [
+            46,
+            2.5
+          ],
+          [
+            45.5,
+            2.5
+          ],
+          [
+            45.5,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.0_46.0",
+    "hazard": "drought",
+    "riskScore": 71,
+    "anomalyPercent": -35,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:07:08.287Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            2
+          ],
+          [
+            46.5,
+            2
+          ],
+          [
+            46.5,
+            2.5
+          ],
+          [
+            46,
+            2.5
+          ],
+          [
+            46,
+            2
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_40.5",
+    "hazard": "drought",
+    "riskScore": 77,
+    "anomalyPercent": -44,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:16:16.005Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            2.5
+          ],
+          [
+            41,
+            2.5
+          ],
+          [
+            41,
+            3
+          ],
+          [
+            40.5,
+            3
+          ],
+          [
+            40.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_41.0",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -6,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:06:09.966Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            2.5
+          ],
+          [
+            41.5,
+            2.5
+          ],
+          [
+            41.5,
+            3
+          ],
+          [
+            41,
+            3
+          ],
+          [
+            41,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_41.5",
+    "hazard": "drought",
+    "riskScore": 84,
+    "anomalyPercent": -56,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:53:31.577Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            2.5
+          ],
+          [
+            42,
+            2.5
+          ],
+          [
+            42,
+            3
+          ],
+          [
+            41.5,
+            3
+          ],
+          [
+            41.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_42.0",
+    "hazard": "drought",
+    "riskScore": 61,
+    "anomalyPercent": -18,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:43:46.448Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            2.5
+          ],
+          [
+            42.5,
+            2.5
+          ],
+          [
+            42.5,
+            3
+          ],
+          [
+            42,
+            3
+          ],
+          [
+            42,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_42.5",
+    "hazard": "drought",
+    "riskScore": 59,
+    "anomalyPercent": -15,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:21:59.402Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            2.5
+          ],
+          [
+            43,
+            2.5
+          ],
+          [
+            43,
+            3
+          ],
+          [
+            42.5,
+            3
+          ],
+          [
+            42.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_43.0",
+    "hazard": "drought",
+    "riskScore": 79,
+    "anomalyPercent": -49,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:36.768Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            2.5
+          ],
+          [
+            43.5,
+            2.5
+          ],
+          [
+            43.5,
+            3
+          ],
+          [
+            43,
+            3
+          ],
+          [
+            43,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_43.5",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -51,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:03:59.257Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            2.5
+          ],
+          [
+            44,
+            2.5
+          ],
+          [
+            44,
+            3
+          ],
+          [
+            43.5,
+            3
+          ],
+          [
+            43.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_44.0",
+    "hazard": "drought",
+    "riskScore": 55,
+    "anomalyPercent": -9,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:14:34.903Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            2.5
+          ],
+          [
+            44.5,
+            2.5
+          ],
+          [
+            44.5,
+            3
+          ],
+          [
+            44,
+            3
+          ],
+          [
+            44,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_44.5",
+    "hazard": "drought",
+    "riskScore": 85,
+    "anomalyPercent": -58,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:35:44.604Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            2.5
+          ],
+          [
+            45,
+            2.5
+          ],
+          [
+            45,
+            3
+          ],
+          [
+            44.5,
+            3
+          ],
+          [
+            44.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_45.0",
+    "hazard": "drought",
+    "riskScore": 52,
+    "anomalyPercent": -3,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:42:27.705Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            2.5
+          ],
+          [
+            45.5,
+            2.5
+          ],
+          [
+            45.5,
+            3
+          ],
+          [
+            45,
+            3
+          ],
+          [
+            45,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_45.5",
+    "hazard": "drought",
+    "riskScore": 53,
+    "anomalyPercent": -6,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:31:56.883Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            2.5
+          ],
+          [
+            46,
+            2.5
+          ],
+          [
+            46,
+            3
+          ],
+          [
+            45.5,
+            3
+          ],
+          [
+            45.5,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_2.5_46.0",
+    "hazard": "drought",
+    "riskScore": 87,
+    "anomalyPercent": -61,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:11:15.241Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            2.5
+          ],
+          [
+            46.5,
+            2.5
+          ],
+          [
+            46.5,
+            3
+          ],
+          [
+            46,
+            3
+          ],
+          [
+            46,
+            2.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_40.5",
+    "hazard": "drought",
+    "riskScore": 74,
+    "anomalyPercent": -40,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:50:49.095Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            3
+          ],
+          [
+            41,
+            3
+          ],
+          [
+            41,
+            3.5
+          ],
+          [
+            40.5,
+            3.5
+          ],
+          [
+            40.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_41.0",
+    "hazard": "drought",
+    "riskScore": 68,
+    "anomalyPercent": -31,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:17:02.315Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            3
+          ],
+          [
+            41.5,
+            3
+          ],
+          [
+            41.5,
+            3.5
+          ],
+          [
+            41,
+            3.5
+          ],
+          [
+            41,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_41.5",
+    "hazard": "drought",
+    "riskScore": 64,
+    "anomalyPercent": -23,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:24:57.443Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            3
+          ],
+          [
+            42,
+            3
+          ],
+          [
+            42,
+            3.5
+          ],
+          [
+            41.5,
+            3.5
+          ],
+          [
+            41.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_42.0",
+    "hazard": "drought",
+    "riskScore": 58,
+    "anomalyPercent": -13,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:22:09.906Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            3
+          ],
+          [
+            42.5,
+            3
+          ],
+          [
+            42.5,
+            3.5
+          ],
+          [
+            42,
+            3.5
+          ],
+          [
+            42,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_42.5",
+    "hazard": "drought",
+    "riskScore": 79,
+    "anomalyPercent": -48,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:48:19.763Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            3
+          ],
+          [
+            43,
+            3
+          ],
+          [
+            43,
+            3.5
+          ],
+          [
+            42.5,
+            3.5
+          ],
+          [
+            42.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_43.0",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -25,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:42:35.284Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            3
+          ],
+          [
+            43.5,
+            3
+          ],
+          [
+            43.5,
+            3.5
+          ],
+          [
+            43,
+            3.5
+          ],
+          [
+            43,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_43.5",
+    "hazard": "drought",
+    "riskScore": 57,
+    "anomalyPercent": -12,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:14:39.504Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            3
+          ],
+          [
+            44,
+            3
+          ],
+          [
+            44,
+            3.5
+          ],
+          [
+            43.5,
+            3.5
+          ],
+          [
+            43.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_44.0",
+    "hazard": "drought",
+    "riskScore": 60,
+    "anomalyPercent": -16,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:46:09.540Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            3
+          ],
+          [
+            44.5,
+            3
+          ],
+          [
+            44.5,
+            3.5
+          ],
+          [
+            44,
+            3.5
+          ],
+          [
+            44,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_44.5",
+    "hazard": "drought",
+    "riskScore": 59,
+    "anomalyPercent": -16,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:27:34.004Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            3
+          ],
+          [
+            45,
+            3
+          ],
+          [
+            45,
+            3.5
+          ],
+          [
+            44.5,
+            3.5
+          ],
+          [
+            44.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_45.0",
+    "hazard": "drought",
+    "riskScore": 49,
+    "anomalyPercent": 2,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:14:41.295Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            3
+          ],
+          [
+            45.5,
+            3
+          ],
+          [
+            45.5,
+            3.5
+          ],
+          [
+            45,
+            3.5
+          ],
+          [
+            45,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_45.5",
+    "hazard": "drought",
+    "riskScore": 47,
+    "anomalyPercent": 5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:47:45.811Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            3
+          ],
+          [
+            46,
+            3
+          ],
+          [
+            46,
+            3.5
+          ],
+          [
+            45.5,
+            3.5
+          ],
+          [
+            45.5,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.0_46.0",
+    "hazard": "drought",
+    "riskScore": 81,
+    "anomalyPercent": -52,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:07:35.326Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            3
+          ],
+          [
+            46.5,
+            3
+          ],
+          [
+            46.5,
+            3.5
+          ],
+          [
+            46,
+            3.5
+          ],
+          [
+            46,
+            3
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_40.5",
+    "hazard": "drought",
+    "riskScore": 76,
+    "anomalyPercent": -44,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:47:35.807Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            3.5
+          ],
+          [
+            41,
+            3.5
+          ],
+          [
+            41,
+            4
+          ],
+          [
+            40.5,
+            4
+          ],
+          [
+            40.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_41.0",
+    "hazard": "drought",
+    "riskScore": 59,
+    "anomalyPercent": -15,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:49:54.868Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            3.5
+          ],
+          [
+            41.5,
+            3.5
+          ],
+          [
+            41.5,
+            4
+          ],
+          [
+            41,
+            4
+          ],
+          [
+            41,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_41.5",
+    "hazard": "drought",
+    "riskScore": 86,
+    "anomalyPercent": -59,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:08:16.873Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            3.5
+          ],
+          [
+            42,
+            3.5
+          ],
+          [
+            42,
+            4
+          ],
+          [
+            41.5,
+            4
+          ],
+          [
+            41.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_42.0",
+    "hazard": "drought",
+    "riskScore": 70,
+    "anomalyPercent": -33,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:12:36.334Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            3.5
+          ],
+          [
+            42.5,
+            3.5
+          ],
+          [
+            42.5,
+            4
+          ],
+          [
+            42,
+            4
+          ],
+          [
+            42,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_42.5",
+    "hazard": "drought",
+    "riskScore": 60,
+    "anomalyPercent": -17,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:40:06.852Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            3.5
+          ],
+          [
+            43,
+            3.5
+          ],
+          [
+            43,
+            4
+          ],
+          [
+            42.5,
+            4
+          ],
+          [
+            42.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_43.0",
+    "hazard": "drought",
+    "riskScore": 57,
+    "anomalyPercent": -11,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:57:45.209Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            3.5
+          ],
+          [
+            43.5,
+            3.5
+          ],
+          [
+            43.5,
+            4
+          ],
+          [
+            43,
+            4
+          ],
+          [
+            43,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_43.5",
+    "hazard": "drought",
+    "riskScore": 62,
+    "anomalyPercent": -20,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:50:59.564Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            3.5
+          ],
+          [
+            44,
+            3.5
+          ],
+          [
+            44,
+            4
+          ],
+          [
+            43.5,
+            4
+          ],
+          [
+            43.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_44.0",
+    "hazard": "drought",
+    "riskScore": 55,
+    "anomalyPercent": -8,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:46:41.864Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            3.5
+          ],
+          [
+            44.5,
+            3.5
+          ],
+          [
+            44.5,
+            4
+          ],
+          [
+            44,
+            4
+          ],
+          [
+            44,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_44.5",
+    "hazard": "drought",
+    "riskScore": 85,
+    "anomalyPercent": -58,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:53:32.606Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            3.5
+          ],
+          [
+            45,
+            3.5
+          ],
+          [
+            45,
+            4
+          ],
+          [
+            44.5,
+            4
+          ],
+          [
+            44.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_45.0",
+    "hazard": "drought",
+    "riskScore": 50,
+    "anomalyPercent": 0,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:46.047Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            3.5
+          ],
+          [
+            45.5,
+            3.5
+          ],
+          [
+            45.5,
+            4
+          ],
+          [
+            45,
+            4
+          ],
+          [
+            45,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_45.5",
+    "hazard": "drought",
+    "riskScore": 51,
+    "anomalyPercent": -1,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:26:10.714Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            3.5
+          ],
+          [
+            46,
+            3.5
+          ],
+          [
+            46,
+            4
+          ],
+          [
+            45.5,
+            4
+          ],
+          [
+            45.5,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_3.5_46.0",
+    "hazard": "drought",
+    "riskScore": 79,
+    "anomalyPercent": -48,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:13:28.787Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            3.5
+          ],
+          [
+            46.5,
+            3.5
+          ],
+          [
+            46.5,
+            4
+          ],
+          [
+            46,
+            4
+          ],
+          [
+            46,
+            3.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_40.5",
+    "hazard": "drought",
+    "riskScore": 47,
+    "anomalyPercent": 5,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:28:23.411Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            4
+          ],
+          [
+            41,
+            4
+          ],
+          [
+            41,
+            4.5
+          ],
+          [
+            40.5,
+            4.5
+          ],
+          [
+            40.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_41.0",
+    "hazard": "drought",
+    "riskScore": 63,
+    "anomalyPercent": -21,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:34:00.482Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            4
+          ],
+          [
+            41.5,
+            4
+          ],
+          [
+            41.5,
+            4.5
+          ],
+          [
+            41,
+            4.5
+          ],
+          [
+            41,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_41.5",
+    "hazard": "drought",
+    "riskScore": 59,
+    "anomalyPercent": -15,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:55:35.704Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            4
+          ],
+          [
+            42,
+            4
+          ],
+          [
+            42,
+            4.5
+          ],
+          [
+            41.5,
+            4.5
+          ],
+          [
+            41.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_42.0",
+    "hazard": "drought",
+    "riskScore": 62,
+    "anomalyPercent": -20,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:54:43.894Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            4
+          ],
+          [
+            42.5,
+            4
+          ],
+          [
+            42.5,
+            4.5
+          ],
+          [
+            42,
+            4.5
+          ],
+          [
+            42,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_42.5",
+    "hazard": "drought",
+    "riskScore": 59,
+    "anomalyPercent": -15,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:03:50.581Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            4
+          ],
+          [
+            43,
+            4
+          ],
+          [
+            43,
+            4.5
+          ],
+          [
+            42.5,
+            4.5
+          ],
+          [
+            42.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_43.0",
+    "hazard": "drought",
+    "riskScore": 83,
+    "anomalyPercent": -55,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:10:40.831Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            4
+          ],
+          [
+            43.5,
+            4
+          ],
+          [
+            43.5,
+            4.5
+          ],
+          [
+            43,
+            4.5
+          ],
+          [
+            43,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_43.5",
+    "hazard": "drought",
+    "riskScore": 77,
+    "anomalyPercent": -44,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:39:42.055Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            4
+          ],
+          [
+            44,
+            4
+          ],
+          [
+            44,
+            4.5
+          ],
+          [
+            43.5,
+            4.5
+          ],
+          [
+            43.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_44.0",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -25,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:11:41.235Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            4
+          ],
+          [
+            44.5,
+            4
+          ],
+          [
+            44.5,
+            4.5
+          ],
+          [
+            44,
+            4.5
+          ],
+          [
+            44,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_44.5",
+    "hazard": "drought",
+    "riskScore": 82,
+    "anomalyPercent": -53,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:35:37.497Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            4
+          ],
+          [
+            45,
+            4
+          ],
+          [
+            45,
+            4.5
+          ],
+          [
+            44.5,
+            4.5
+          ],
+          [
+            44.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_45.0",
+    "hazard": "drought",
+    "riskScore": 74,
+    "anomalyPercent": -41,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:09:03.462Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            4
+          ],
+          [
+            45.5,
+            4
+          ],
+          [
+            45.5,
+            4.5
+          ],
+          [
+            45,
+            4.5
+          ],
+          [
+            45,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_45.5",
+    "hazard": "drought",
+    "riskScore": 73,
+    "anomalyPercent": -38,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:16:08.028Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            4
+          ],
+          [
+            46,
+            4
+          ],
+          [
+            46,
+            4.5
+          ],
+          [
+            45.5,
+            4.5
+          ],
+          [
+            45.5,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.0_46.0",
+    "hazard": "drought",
+    "riskScore": 65,
+    "anomalyPercent": -24,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:07:34.463Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            4
+          ],
+          [
+            46.5,
+            4
+          ],
+          [
+            46.5,
+            4.5
+          ],
+          [
+            46,
+            4.5
+          ],
+          [
+            46,
+            4
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_40.5",
+    "hazard": "drought",
+    "riskScore": 62,
+    "anomalyPercent": -21,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:05:05.697Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            40.5,
+            4.5
+          ],
+          [
+            41,
+            4.5
+          ],
+          [
+            41,
+            5
+          ],
+          [
+            40.5,
+            5
+          ],
+          [
+            40.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_41.0",
+    "hazard": "drought",
+    "riskScore": 82,
+    "anomalyPercent": -53,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:45:38.651Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41,
+            4.5
+          ],
+          [
+            41.5,
+            4.5
+          ],
+          [
+            41.5,
+            5
+          ],
+          [
+            41,
+            5
+          ],
+          [
+            41,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_41.5",
+    "hazard": "drought",
+    "riskScore": 78,
+    "anomalyPercent": -47,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:49:26.214Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            41.5,
+            4.5
+          ],
+          [
+            42,
+            4.5
+          ],
+          [
+            42,
+            5
+          ],
+          [
+            41.5,
+            5
+          ],
+          [
+            41.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_42.0",
+    "hazard": "drought",
+    "riskScore": 84,
+    "anomalyPercent": -57,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:51:24.182Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42,
+            4.5
+          ],
+          [
+            42.5,
+            4.5
+          ],
+          [
+            42.5,
+            5
+          ],
+          [
+            42,
+            5
+          ],
+          [
+            42,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_42.5",
+    "hazard": "drought",
+    "riskScore": 63,
+    "anomalyPercent": -22,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:39:35.974Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            42.5,
+            4.5
+          ],
+          [
+            43,
+            4.5
+          ],
+          [
+            43,
+            5
+          ],
+          [
+            42.5,
+            5
+          ],
+          [
+            42.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_43.0",
+    "hazard": "drought",
+    "riskScore": 71,
+    "anomalyPercent": -36,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:27:35.415Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43,
+            4.5
+          ],
+          [
+            43.5,
+            4.5
+          ],
+          [
+            43.5,
+            5
+          ],
+          [
+            43,
+            5
+          ],
+          [
+            43,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_43.5",
+    "hazard": "drought",
+    "riskScore": 54,
+    "anomalyPercent": -7,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T12:12:02.130Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            43.5,
+            4.5
+          ],
+          [
+            44,
+            4.5
+          ],
+          [
+            44,
+            5
+          ],
+          [
+            43.5,
+            5
+          ],
+          [
+            43.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_44.0",
+    "hazard": "drought",
+    "riskScore": 48,
+    "anomalyPercent": 3,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:43:00.287Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44,
+            4.5
+          ],
+          [
+            44.5,
+            4.5
+          ],
+          [
+            44.5,
+            5
+          ],
+          [
+            44,
+            5
+          ],
+          [
+            44,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_44.5",
+    "hazard": "drought",
+    "riskScore": 58,
+    "anomalyPercent": -13,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:44:04.466Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            44.5,
+            4.5
+          ],
+          [
+            45,
+            4.5
+          ],
+          [
+            45,
+            5
+          ],
+          [
+            44.5,
+            5
+          ],
+          [
+            44.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_45.0",
+    "hazard": "drought",
+    "riskScore": 75,
+    "anomalyPercent": -42,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:33:21.362Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45,
+            4.5
+          ],
+          [
+            45.5,
+            4.5
+          ],
+          [
+            45.5,
+            5
+          ],
+          [
+            45,
+            5
+          ],
+          [
+            45,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_45.5",
+    "hazard": "drought",
+    "riskScore": 52,
+    "anomalyPercent": -3,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:36:27.810Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            45.5,
+            4.5
+          ],
+          [
+            46,
+            4.5
+          ],
+          [
+            46,
+            5
+          ],
+          [
+            45.5,
+            5
+          ],
+          [
+            45.5,
+            4.5
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "cellId": "chirps_4.5_46.0",
+    "hazard": "drought",
+    "riskScore": 77,
+    "anomalyPercent": -45,
+    "confidence": 0.62,
+    "updatedAt": "2026-06-22T11:59:19.308Z",
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46,
+            4.5
+          ],
+          [
+            46.5,
+            4.5
+          ],
+          [
+            46.5,
+            5
+          ],
+          [
+            46,
+            5
+          ],
+          [
+            46,
+            4.5
+          ]
+        ]
+      ]
+    }
+  }
+]
